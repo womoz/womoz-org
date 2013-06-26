@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title> WoMoz - JDLL 2010 </title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <!--[if lt IE 9]>
+  <style type="text/css">
+  #slide1 > p {
+    /* this won't work with IE6, unfortunately */
+    margin-top: 1em;
+  }
+  .highlight div > * {
+    /* this won't work with IE6, unfortunately */
+    visibility: hidden;
+  }
+  </style>
+  <script src="player/html5.js"></script>
+  <![endif]-->
+  <script type="text/javascript" src="timesheet.js"></script>
+  <script type="text/javascript">
+    /* adding custom keyboard shortcuts for the slideshow player */
+    EVENTS.onDOMReady(function() {
+      var prevKeyCode = 75; // [k]-key
+      var nextKeyCode = 74; // [j]-key
+      var prevButton = document.getElementById("prev");
+      var nextButton = document.getElementById("next");
+
+      EVENTS.bind(document, "keydown", function(e) {
+        switch(e.keyCode) {
+          case prevKeyCode:
+            EVENTS.trigger(prevButton, "click");
+            break;
+          case nextKeyCode:
+            EVENTS.trigger(nextButton, "click");
+            break;
+        }
+      });
+    });
+  </script>
+</head>
+
+<body>
+
+<div id="slideshow" class="highlight" data-timecontainer="seq"
+					   data-first = "first.click"
+					   data-prev  = "prev.click"
+					   data-next  = "next.click"
+					   data-last  = "last.click">
+					   
+	<div id="slide1">
+	<!--[if lt IE 7]><p><br></p><![endif]-->
+		<h1>Women & Mozilla</h1>
+		<h2>Chronique de la vie des femmes dans le Libre</h2>
+		<h3>Delphine LEBÉDEL, Julia BUCHNER, Claire CORGNOU</h3>
+		<h4>JDLL 2010 - 16 octobre 2010</h4>
+	</div>
+
+	<div id="slide2" class="delph">
+		<h1>Les femmes dans le Libre</h1>
+		<img src="img/chiffres.png"/><br/>
+		Source: FLOSS Pol 2004-2006
+	</div>
+	
+	<div id="slide3" class="delph">
+		<h1>Et à Mozilla ?</h1>
+		<img src="img/employe.png"/>
+	</div>
+	
+	<div id="slide4" class="delph">
+		<h1>Les évènements</h1>
+		<img src="img/mv2010.jpg" />
+	</div>
+	
+	<div id="slide5" class="delph">
+		<h1>L'ambiance</h1>
+		<img src="img/nitot.jpg" />
+	</div>
+	
+	<div id="slide6" class="delph" data-timecontainer="par">
+		<h1>Mozilla recrute</h1>
+		<ul data-timecontainer="par">
+			<li data-begin="0:01">Développement</li>
+			<li data-begin="0:02">Labs</li>
+			<li data-begin="0:03">Marketing</li>
+			<li data-begin="0:04">Mozilla Messaging</li>
+			<li data-begin="0:05">Assurance qualité</li>
+			<li data-begin="0:06">Expérience utilisateur</li>
+			<li data-begin="0:07">Développement Internet</li>
+			<li data-begin="0:08">... et plus si affinité</li>
+			<li class="link" data-begin="0:09">
+				<a href="http://www.mozilla.com/en-US/about/careers.html">
+					http://www.mozilla.com/en-US/about/careers.html
+				</a>
+			</li>
+		</ul>
+	</div>
+	
+	<div id="slide7">
+		<p id="planet" class="dev">300 employés<br/>Mozilla Corporation</p>
+	</div>
+	
+	<div id="slide8">
+		<p id="planet" class="dev">300 employés<br/>Mozilla Corporation</p>
+		<p id="planet" class="contrib">10 000 contributeurs</p>
+	</div>
+	
+	<div id="slide9">
+		<p id="planet" class="dev">300 employés<br/>Mozilla Corporation</p>
+		<p id="planet" class="contrib">10 000 contributeurs</p>
+		<p id="planet" class="test">1 000 000 béta-testeurs</p>
+	</div>
+	
+	<div id="slide10">
+		<p id="planet" class="dev">300 employés<br/>Mozilla Corporation</p>
+		<p id="planet" class="contrib">10 000 contributeurs</p>
+		<p id="planet" class="test">1 000 000 béta-testeurs</p>
+		<p id="planet" class="use">400 M <br/>utilisateurs</p>
+	</div>
+	
+	<div id="slide11">
+		Et les filles dans tout ça ?
+	</div>
+	
+	<div id="slide12" class="delph" data-timecontainer="par">
+		<h1>Mais pourtant, on peut faire de tout !</h1>
+		<ul data-timecontainer="par">
+			<li data-begin="0:01">Frenchmoz</li>
+			<li data-begin="0:02">Kompozer</li>
+			<li data-begin="0:03">WoMoz</li>
+			<li data-begin="0:04">Drumbeat</li>
+			<li data-begin="0:05">B2I</li>
+			<li data-begin="0:06">...</li>
+		</ul>
+	</div>
+	
+	<div id="slide13" class="claire">
+		<h1>Un geek, c'est pas glamour !</h1>
+		<img src="img/vivien.jpg"/>
+	</div>
+	
+	<div id="slide14" class="claire">
+		<h1>Un geek, c'est pas glamour !</h1>
+		<img src="img/nitot-shirt.jpg"/>
+	</div>
+	
+	<div id="slide15" class="claire">
+		<h1>Un geek, c'est pas glamour !</h1>
+		<img src="img/sonny.jpg"/>
+	</div>
+	
+	<div id="slide16" class="claire">
+		<h1>Un geek, c'est pas glamour !</h1>
+		<img src="img/mounir.jpg"/>
+	</div>
+	
+	<div id="slide17" class="claire">
+		<h1>En fait, les geeks sont géniaux...</h1>
+		<img src="img/vivien_firefox.jpg"/>
+	</div>
+	
+	<div id="slide18" class="claire">
+		<h1>... et le Libre, c'est beau !</h1>
+		<img src="img/firefox.jpg"/>
+	</div>
+	
+	<div id="slide20" class="claire">
+		<h1>Mais les geeks ont une dépendance: les filles !</h1>
+		<img src="img/paul.jpg"/><br/>
+	</div>
+	
+	<div id="slide22" class="claire">
+		<h1>Les perles</h1>
+		<p class="fortunes">
+			<span class="quotename">Sonny: </span>Goofy: les boutons, c'est naze!<br/><br/>
+			<span class="quotename">Tsk: </span>sonny: c'est faux les boutons c'est super bien surtout celui auquel je pense !!!<br/><br/>
+			<span class="quotename">Goofy: </span>pfff ça sent le point womoz là<br/><br/>
+			** Julia s'est acheté une super grosse batte de base-ball avec WoMoz écrit dessus<br/><br/>
+			** Kaze s'est acheté un super gros casque pour la prochaine fois qu'il croisera Julia<br/><br/>
+			<span class="quotename">Julia: </span>kaze: qui te dis que je frappe à la tête ? 
+		</p>
+	</div>
+	
+	<div id="slide24" class="claire">
+		<h1>Conclusion: à vous de jouer !</h1>
+		<img src="img/vivien_roomba.jpg"/>
+	</div>
+	
+	<div id="slide25">
+		<h1>WoMoz</h1>
+		<h2>Site: http://www.womoz.org</h2>
+		<h2>IRC: womoz@irc.mozilla.org</h2>
+	</div>
+	
+	<p class="menu" data-timeaction="none">
+      <button id="first" title="first slide">&lt; &lt;</button>
+      <button id="prev"  title="previous slide">&lt; prev</button>
+      <button id="next"  title="next slide">next &gt;</button>
+      <button id="last"  title="last slide">&gt; &gt;</button>
+    </p>
+	
+</div>
+
+</body>
+</html>

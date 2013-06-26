@@ -1,0 +1,175 @@
+====== WoMoz Survey ======
+
+We need to gather some data, so we will be able to work on further action plans. We need 
+to know what should be changed/started/ended. 
+
+If it turned out that women were leaving, we would need to examine the community, find the 
+causes and fix them. If women were not joining in the first place, we would need to focus 
+on information, promotion, myth-busting and all that grass-root community work.
+
+At the moment, we only know there aren't many women here (around 15 on the last MozCamp, out 
+of 180 people if I'm not mistaken), but we don't know **why**.
+  
+ 
+===== AIM =====
+
+Find out why there are so few women in the project: are they leaving or
+are they are not joining at all?
+ 
+===== PROJECT =====
+
+We could run a survey aimed at women involved in Mozilla/Open Source
+projects at present or in the past, and those not involved at all. To reach
+more women those surveys could be translated and advertised as widely as possible.
+ 
+===== SAMPLE QUESTIONS =====
+
+Rough points we would like to know:\\
+  * for women:\\
+    * if you are/were not: why? (need to prepare points to choose from, will be easier to analyze data later)\\
+         *Are you participating in not Open Source projects?\\
+         *Do you know FLOSS?\\
+         *Do you know you can contribute even if you are not a technician?\\
+
+    * if you left, what was the main reason? (lack of time? sexism? etc.)\\
+
+  * for men:\\
+    * if yes: are there many women in your community? why?\\
+    * do you know any women that were interested but left?\\
+    * do you know any women that could be interested but never joined?\\
+    * do you know how could we encourage them to return/join?\\
+    * why do you think there are so few women in open source? (lack of time? sexism? lack of information - not aware they can participate? stereotypes? etc.)\\
+
+  * for both:\\
+    * are/were you involved in any open source projects?\\  
+    * if yes, why did you decide to join those projects in the first place?\\
+    * for how long? (should this be women-only?)\\
+    * which projects? (should this be women-only?)\\
+    * are/were you involved in any not open source projects?\\ 
+
+At the end we will add some basic demographic questions (need to be at the end, 
+those are of no interest to those filling the survey so we shouldn't start with 
+them). Those questions should include: age range, gender, geographical area, occupation, type of 
+work (full time, part time, student, not working), size of the city they live in etc. 
+
+===== QUESTIONS/CONCERNS =====
+
+  * Do we want to focus on Mozilla or open source in general?
+  * Is translating the survey a good idea? How do we analyze the data later?
+  * What form of a survey do we need? ("choose option(s)" vs. open answers vs. both)
+  * Is there a point in targeting men with this survey? Maybe we could run another one for the whole community but with different set of questions?
+  * What do we want to do later with the results? some action plans?? publish them? (maybe this survey could be part of a whole inclusion/diffusion project and this is just the causes/needs detection phase). 
+ 
+
+===== ADDITIONAL STUFF =====
+
+  * The survey should be open for a long enough to gather a decent amount of data for analysis. How long?
+  * Staś is reponsible for Community Surveys, he could be useful (investigate what exactly he does and whether we really need his help)
+  * Get in touch with people from Mozilla communities around the world/Europe, especially women
+  * We could do a presentation on next MozCamp: that would be a year after the first "official" WoMoz meeting so that could be a good excuse for this, we could talk more about the WoMoz project itself, the survey and its results, and planned actions (and their results if there would be any by that time)
+
+
+====== Internal & External Mozilla Surveys ======
+
+===== STEPS =====
+
+==== The situation of women in FLOSS ====
+
+Womoz is working in a research to understand better the reality of women in FLOSS. The work has been divided in two phases to have a better approach of the community.
+
+=== I. Internal - Mozilla community ===
+
+  * Goal: to understand / have an overview of the profile of the women working and contributing in Mozilla, as well as their activities and perceptions in the institution. (reformulate: maybe start with a verb, sounds better for a poll)
+
+  * Purpose: To detect areas of improvement related to gender issues in Mozilla and FLOSS communities for further actions and to give more visibility to women's work.
+
+  * Target: women contributors first (dedicated survey) and later women employees in Mozilla (present and past).
+
+  * Input info: list of women to contact from the community leaders (output from the first road-map task).
+
+  * Measuring instrument: short online survey - closed profile questions and open opinion paragraphs. LIMESURVEY? (http://www.limesurvey.org/)
+
+  * Milestone: 15th June.
+
+  * Info to gather with the survey: 
+
+-> Personal Profile: age/career/working area at Mz/formal relation with Mz/ ...\\
+-> Activities done in Mz\\
+-> Perception of her role as a woman in Mz and in the relation with colleagues.\\
+-> Difficulties in the daily work due to the gender issues.\\
+-> Suggestions to improve women experience in Mz.\\
+
+  * [[http://etherpad.mozilla.com:9000/womozsurvey|Link to the internal survey draft]]
+
+
+=== II. External - FLOSS community ===
+
+  * Goal: To identify strengths and weaknesses in the relation between women and FLOSS in general and with Mozilla in particular. (We'll probably also see about this when the time comes because we have to work in internal first in order to know what we want to know in external phase)*
+
+  * Purpose: to encourage women participation in Mozilla project and in FLOSS community in general.*
+
+  * Target: women related with technologies in anyway (present and past)*
+
+  * Input info: list of women to contact from the communities related with technologies and gender issues.
+
+  * Measuring instrument: (this decision will depend on the exact definition of the goal and purpose of this research- see the Work Flow)
+
+This is just as orientations as all this will be defined in the Step 1, see the Work Flow
+
+  * Milestone: last quarter 2010
+
+=== Work Flow ===
+
+  * **Step 1. Defining goals and future applications of the research**
+
+    We need to answer some questions that will lead the rest of the activities:
+    What do we want to figure out with this research? 
+    Why is it necessary for Womoz? 
+    What can we use that info for?
+    What do we intend to do with the results after the research?
+
+**    owner** ->  all of womoz community
+
+
+  * **Step 2. Splitting the goals into parts**
+
+    In order to analyse the general goal better, it's advisable to split it into some specific goals. This will automatically guide the kind of measuring instrument that better fits and the info that needs to be gather.
+
+**    owner** ->  survey team
+
+
+  * **Step 3. Choosing and designing the proper measuring instrument**
+
+    Depending of the goal and the kind of info needed, it will be necessary to decide between a quantitative or a qualitative data instrument (or some mixed one). There are lots of instruments that could work (polls, surveys, interviews, etc) and the right choice will make the work much easier.
+
+**    owner** ->  the tech survey team (so the ones in the survey team who are especially competent in doing this)
+
+
+  * **Step 4. Analyzing the results**
+
+    After completing the application of the instrument, it will be necessary to analyse the obtained info. The methodology to extract and process the info will depend on the chosen instrument. It's time to check if the goals were accomplish and to read the info in the results.
+
+**    owner** -> survey team do the analysis and communicate the results to entire womoz community.
+
+
+  * **Step 5. Turning those conclusions into action plans**
+
+    Now it's time to interpret what the results are indicating by putting them next to the original goals and purposes of the research . Also, with a very strong background, it's time to apply the results of our research using them to create different actions or even new projects from here. It's also time to publish the results of our research and share them with others communities.
+
+**    owner** -> entire Womoz  community(or more) participates in thinking over these action plans and concretising them.
+
+==== Combining Video Interviews with the Survey questions ====
+
+  * Wiki for video interviews: [[http://chicasopensourcelatam.noc-root.net/doku.php?id=preguntas_de_entrevista]]
+
+====== Internal Mozilla Survey =======
+
+You may find the analysis of the survey here:\\
+http://www.womoz.org/blog/womoz-internal-survey-results-and-conclusions/
+
+Entire survey answers can be sent upon request, just send email to delphine at mozilla dot com. The document can also be found in the [[http://lists.womoz.org/pipermail/womoz/|mailing list archives]].
+
+====== External Mozilla Survey ======
+
+You may find the results and answers to the survey here:\\
+http://www.surveymonkey.com/sr.aspx?sm=mBFyZvJBvhZjzjj6h4BHhpmsBH_2b0AJcbUZY4_2fJ6C0ug_3d

@@ -1,0 +1,153 @@
+====== TODO section ======
+
+**Please check our [[https://womoz.etherpad.mozilla.org/|Etherpad Meeting Notes]] for any ongoing tasks, or [[http://lists.womoz.org/mailman/listinfo/womoz|join and contact us on our mailing list]] to know how you can get involved!**
+//
+//
+====== **PAST TODO section - Up to 2010** (obsolete, only for the record): ======
+We now list our TODO items on our [[http://womoz.etherpad.mozilla.org/|Etherpad Meeting Notes]]
+
+====== Ideas for Add Ons ======
+
+  * An extension that computes all kind for values for Food&Nutrition, what you ate that day
+
+  * Addon giving the TV program on our preferred channels and reminds us to record them (or watch them before they are no more available on Internet)
+
+
+====== Ideas for Interview Questions ======
+
+  * Video interviews:
+    * Latinamerican girls in Open source: http://chicasopensourcelatam.noc-root.net/doku.php
+Interview questions more specifically here: http://chicasopensourcelatam.noc-root.net/doku.php?id=preguntas_de_entrevista
+
+====== Idea of any kind ======
+//Feel free to edit and add your suggestions to promote women in Mozilla and open source//
+
+-> **Short-term**
+
+  * In order to know where we stand, get statistics about Women in Mozilla. How many employees, how many volunteers? In which areas. Where do we stand?
+    * **Employees**: 16.75% See blog post here:  http://www.womoz.org/blog/number-of-women-in-mozilla/
+\\
+-> **Long(er)-term:**
+
+  * Competition for designing a women tshirt on the free software theme?\\
+  * Contact & work with Open Source, ICTs, gender groups, [[http://womoz.org/wiki/doku.php?id=todo_list#education|education]], social inclusion, NGOs & such
+  * A directory of every woman indulging in Open Source software would be nice
+  * Push Women on code on the foreground:
+I recently discovered [[https://addons.mozilla.org/en-US/firefox/addon/13681| this excellent and original extension]] designed by Margaret Leibovic. She is [[http://margaret.mit.edu/about/ |a Mozilla intern!]] 
+
+Her extension is reviewed on [[http://lifehacker.com/5340079/aboutme-displays-your-browsing-trends |lifehacker]], a site founded by another geek woman, Gina Trapani.
+
+
+My suggestion: contact her, publish an interview with her, and why not ask her how it could be possible she drives a sort of "Hey Girlz Build Your Own Extension" workshop one of these days.
+
+  * A series of interviews to promote prominent or more ordinary women on Open source 
+something like "woman on open source of the month" ...speaking about what she is involved in, how she got to fumble in open source, what were her probs if any, what are her projects
+
+====== Education ======
+//If you have an idea for a school, university, etc. that we can contact and work with, please name and give some details below://
+
+===== Mozilla Education ===== 
+
+- Notes from call October 26, 2009:\\ [[https://wiki.mozilla.org/Education/StatusMeetings/2009-10-26|Education/StatusMeetings/2009-10-26]]\\
+- Notes from call December 14, 2009:\\ [[https://wiki.mozilla.org/Education/StatusMeetings/2009-12-14|Education/StatusMeetings/2009-12-14]]
+\\
+
+===== Lycée Lakanal =====
+ 
+(France) contacted
+
+===== Université D'Evry =====
+
+(France)\\ 
+==== Mozilla Courses ====
+-> end of November 2009 until March 2010
+  * Mentorship of two women students ([[http://www.univ-evry.fr/fr/formation/l_offre_de_formation/master_mention_informatique_et_systemes/master_mention_informatique_et_systemes_specialite_methodes_informatiques_appliquees_a_la_gestion_d_entreprise_miage.html|MIAGE courses]]) on the WoMoz website, as well as promotion of the project. They were mentored by two WoMoz contributors (Delphine and Julia).\\
+
+-> Nov. 2010 until March 2011
+  * Mentorship of two men students. They worked on creating a Mozilla Add-on, mentored by WoMoz contributors (Delphine and Milos Dinic).
+
+-> Jan. 2012 until March 2012
+  * Mentorship of two students (Mentors: Mathieu Goessens and Delphine)
+
+Project: Gather new and current data about women in IT and women in Open Source: either on French National level (accurate) or internation level (probably less accurate). Analyze them and present the results in a website using html5 technologies (svg, canvas..)
+
+How to gather this information:\\
+- National: INSEE, professional organisations...\\
+- Europe: http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database\\
+- International: maybe looking at IMF or related ( http://stats.uis.unesco.org/unesco/TableViewer/document.aspx?ReportId=136&IF_Language=eng&BR_Topic=0 )\\
+- In order to analyze analyze http://en.wikipedia.org/wiki/Gini_coefficient\\
+
+Student project can be found on Github: https://github.com/francois-le-francais/Womoz-projet-DLL/wiki/_pages
+
+===== Epitech University ===== 
+
+(France)\\
+Presentation of the WoMoz project to the university students on March 10th, 2010 ([[http://www.epitech.eu/]])
+
+===== Workshops =====
+
+==== PyStar Paris Workshop - June 2011 ====
+  * [[http://pystar.org/|PyStar Website]]
+  * [[http://www.womoz.org/blog/pystar-paris/|Launching PyStar Paris blog post]]
+  * [[http://blog.lebedel.net/index.php?post/2011/06/23/PyStar-Paris%3A-Feedback-and-Thoughts|Aftermath: Feedback & Thoughts]]
+
+==== Partnership with Greenlight for Girls workshop - June 2012 ====
+  * [[meeting-notes|Meeting Notes]]
+  * Blog posts:
+    * [[http://blog.lebedel.net/index.php?post/2012/02/15/FOSDEM-2012|After Fosdem 2012, presenation of workshop idea]]
+
+====== FLOSS Women's Groups ======
+
+  * [[http://www.devchix.com/|DevChix]]\\
+  * [[http://groups.drupal.org/drupalchix|Drupal Chix]]\\
+  * [[http://www.phpwomen.org/|PHP Women]]\\
+  * [[http://ubuntu-women.org|Ubuntu Women]]\\
+  * [[http://women.debian.org/home/|Debian Women]]\\
+  * [[http://live.gnome.org/GnomeWomen|GNOME Women]]\\
+  * [[http://anitaborg.org/initiatives/systers|Systers]]\\
+  * [[http://www.linuxchix.org/|LinuxChix]]\\
+  * [[http://www.chicaslinux.org/|ChicasLinux]]
+  * [[http://groups.fsf.org/wiki/Womenscaucus|FSF Women's Group]]
+  * [[http://www.geekfeminism.org|geekfeminism.org]]
+
+====== WoMoz Community Tasks ======
+
+//Below are some tasks that need regular contribution. Feel free to add yourself to a project you'd like to contribute to!//
+
+  * **[[http://womoz.mirocommunity.org/|videos]]**: herding, maintaining, curating videos, uploading content and making videos (interviews, tutorials, ...)
+  * **[[http://www.womoz.org/wiki/|wiki]]**: writing, checking, updating, etc.
+  * **[[http://www.womoz.org/blog/|blog]]**: writing articles regularly, making interviews, ...
+  * **[[https://bugzilla.mozilla.org/show_bug.cgi?id=529868|bugzilla]]**: for issues and changes concerning the WoMoz Website
+  * **[[survey]]**: writing out questions, proofreading, maybe some localization, publishing, etc/
+  * **[[http://www.facebook.com/WoMoz|Facebook]]**: writing and checking regularly
+\\
+
+^ Videos                ^ Wiki         ^ Blog         ^ Bugzilla   ^ Survey  ^ FB     ^ 
+|Janet //(tech)//       |Falka         |Delphine      |Lsblakk     |Falka    |Anamaria|   
+|Lsblakk //(tech&make)//|Pavel         |Nastassia     |wormsxulla  |marianyka|Delphine|   
+|Theo //(tech)//        |Béatrice      |Béatrice      |Delphine    |Baby     |        |
+|Izel                   |Tiffney       |              |falka       |Pavel    |        |   
+|Delphine               |Nastassia     |              |Pavel       |Delphine |        |   
+|Pavel //(tech)//       |              |              |            |Milos    |        |
+|Béatrice //(make)//    |              |              |            |Nuno     |        |
+|Nastassia //(make)//   |              |              |            |         |        |
+
+
+====== 2010 Roadmap ======
+
+^  Category  ^  Tasks  ^  Who  ^  ETA  ^  Done  ^
+|  Inside the community  |  Contact community leaders  |  Delphine, FLK  |  March 2010  |  X  |
+| ::: |  List of women contributors and their involvement  |  :::  |  March 2010  |  X  |
+| ::: |  Divide WoMoz contributors into sub-workgroups (more efficiency)  |  entire team  |  Mid-March \\ End March 2010  |  X  |
+^    ^    ^    ^    ^    ^ 
+|  Outside the community  |  Create lectures training sessions [postponed]   |    |  July 2010  |    |
+| ::: |  Initiate the testimony movement  |    |  September 2010  |  X  |
+| ::: |  Diversity charter  |  Delphine, OWF-GED Team  |  End September \\ Start October 2010  |  X  |
+| ::: |  Public communication (video project, papers,..), gather testimony from outside Mozilla  |     |  Last quarter 2010  |  X  |
+| ::: |  Start newcomers welcoming program (specific IRC channel, tutorials,...)  |    |  End 2010  |    |
+| ::: |  Instore "rewinds" for contributions  |    | :::  |    |
+
+
+
+**Want to help out with any of these ideas? Feel free to contact us on our [[http://lists.womoz.org/mailman/listinfo/womoz|WoMoz Mailing List]] (you first need to subscribe) or write directly to //[[delphine@mozilla.com|delphine at mozilla dot com]]//.**
+

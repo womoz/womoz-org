@@ -1,0 +1,39 @@
+====== WoMoz Actions and Projects ======
+
+**Want to help us and promote some of the WoMoz projects? Come get involved! Choose from some of our actions are listed here:**
+
+  * Mentoring program ⇒ project contributors can help interested people in their first contribution to WoMoz or Mozilla
+
+  * Regular update of Wiki by WoMoz contributors, IRC channel exists to meet contributors, writing in the [[http://www.womoz.org/blog/|blog]] (syndicated on [[http://planet.mozilla.org/|Planet Mozilla]]), participating in the discussions of our [[http://lists.womoz.org/mailman/listinfo/womoz|mailing list]], joining and animating our [[http://www.facebook.com/WoMoz|Facebook Page]] as well as [[https://twitter.com/WoMozilla|our Twitter account]]. All this will help the project obtain a better visibility
+
+  * Keep in contact with FLOSS communities (LUGs, "Agenda du Libre", AFUL, APRIL, geckozone, interlug, etc.) and regularly give them updates about the project: in order for them to communicate about the project in their communities and collaborating in them
+
+  * Continuous promotion of project, of Mozilla and of women in Open Source (in magazines, feminine magazines, newspapers, etc.)
+
+  * Talk about Womoz on your blog and amongst your communities. Spread the word!
+
+  * Organize a local project that involves women in a Mozilla/Open Source project and that empowers women
+
+  * Point out what women contributors in Open Source -  and in Mozilla & WoMoz - have done and are currently doing: "I did it, you can too"
+
+  * Give presentations and talks about the project, present WoMoz in FLOSS events
+
+  * Interviews of women working in Open Source (written and video) to give more visibility to women's work and projects. Broadcast the videos as much as possible (Dailymotion, Youtube, blogs,...)
+
+  * Create [[https://addons.mozilla.org/firefox|Firefox Addons]]. Create themes, [[http://www.getpersonas.com/|Personas]], etc.
+
+  * Define activities that don't exist yet and that could be interesting for women
+
+  * Organize more events for the general public: promote the women's project in Universities, during Festivals, participating in roller events,...
+
+  * Introduction classes and tutorials for programming. Propose and put up tutorials on the wiki / IRC
+
+  * Find opportunities to collaborate with Mozilla developers
+
+  * Code competitions / Hack Days
+
+  * Fun video clips and posters
+
+  * Possible slogans for the project: Girls in Touch, I tried shopping ... I prefer programming, "Il ne faut jurer de rien", Human being communicator, "Richard: marketing director, Samantha: Free Software Activist", etc.
+
+  * Be creative, come up with ideas and discuss them with us! We're open :)

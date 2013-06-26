@@ -1,0 +1,35 @@
+====== Want to give us some suggestions or feedback? ======
+
+Here are some communication tools in order to contact us:\\
+
+===== Contact us =====
+
+  * Delphine: //delphine **at** mozilla-europe **dot** org//
+
+(Nickname is delphine on irc.mozilla.org)
+
+==== Who to contact ====
+
+If you encounter problems with some of our tools:
+
+  * [[http://womoz.mirocommunity.org/|videos]]: Janet, Lsblakk, Theo, Pavel
+  * [[womoz|wiki]]: Delphine
+  * [[http://www.womoz.org/blog/|blog]]: Delphine
+  * [[https://bugzilla.mozilla.org/show_bug.cgi?id=529868|bugzilla]]: Lsblakk, Pavel, wormsxulla
+  * [[http://www.facebook.com/WoMoz|Facebook]]: Anamaria, Delphine
+
+===== Join us on IRC =====
+
+  * Join the **#womoz** channel on irc.mozilla.org
+  * Never used IRC before? Here's some help: [[http://en.wikipedia.org/wiki/Internet_Relay_Chat|IRC on Wikipedia]] [[http://chatzilla.hacksrus.com/|Installing Chatzilla]] [[http://chatzilla.hacksrus.com/faq/|Chatzilla FAQ]]
+
+====== Stay up to date ======
+
+  * [[http://lists.womoz.org/mailman/listinfo/womoz|Mailing List]]: Subscribe to the WoMoz mailing list here
+  * [[http://www.womoz.org/blog/|WoMoz Blog]]: Follow news on the blog
+  * [[http://womoz.mirocommunity.org/|WoMoz Video Website]]: Come watch some videos: Women in Floss, tutorials, interviews,... & more
+  * [[https://bugzilla.mozilla.org/show_bug.cgi?id=529868|Bugzilla]]: Report websites bugs
+
+====== Social networks ======
+
+  * [[http://www.facebook.com/WoMoz|Facebook Page]]

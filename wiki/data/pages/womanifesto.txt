@@ -1,0 +1,17 @@
+====== WoManifesto ======
+
+  * We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in FLOSS ((Free/Libre/Open Source Software)) and [[http://www.mozilla.org/|Mozilla]], and to increase the number of women contributors.
+
+  * Anyone can participate in this project, regardless of sex, age, job, etc. 
+
+  * We are united by the common goal of promoting women's visibility and involvement in open source communities.
+
+  * We believe that the Internet, FLOSS projects and computing must remain **open** and **participatory**. This also means accessible in the same way to all - women and men alike.
+
+  * As the [[http://www.mozilla.org/about/manifesto.en.html|Mozilla Manifesto]] underlines, we believe that all individuals must have the ability to shape their own experiences on the Internet. Let's give everyone the same opportunity to do so.
+
+  * We believe solutions should continuously be proposed in order to improve the visibility of all minorities, who for various reasons might not have equal access to computers or the Internet. This project is an example of this, as it aims at ameliorating women's presence and participation in Mozilla and open source. 
+
+  * We believe Open Source needs more women!
+
+{{ :logos:logo9.jpg }}

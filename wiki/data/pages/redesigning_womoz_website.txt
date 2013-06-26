@@ -1,0 +1,32 @@
+====== Redesigning the WoMoz Website ======
+
+===== Tracking bug ===== 
+
+We have set up a tracking bug for the WoMoz website. You can find it here on Bugzilla: https://bugzilla.mozilla.org/show_bug.cgi?id=529868
+
+===== Staging Website =====
+
+To follow the changes concerning the WoMoz website, please see here: http://www.womoz.org/stage/
+
+===== Community Notes =====
+
+//Please use and edit this section as you wish to add your suggestions and ideas.//
+
+  * Use Mozilla Communities logo
+  * Change the boxes with the 3 default pics representing the wiki, website and ml -> find cool logos and use a carousel 
+  * Integrate the videos from the WoMoz video website -> maybe put inside the carousel as well
+  * Stay coherent with the rest of the websites -> so with the designs of the blog, wiki and video sites
+     * This may be pretty hard, because wiki and blogs have a lot different design(as in colors, images, content placing)
+  * Agree on the content that will appear on the page, so the design fits well
+  * Maybe add a womoz facebook logo on the page, linking to the womoz facebook page
+
+===== Website Meetings =====
+**
+Each Thursday at 10am PST** starting 28th of Oct. 2010 and until needed. FINISHED\\ 
+
+For more info on how to connect, please refer to: \\
+https://wiki.mozilla.org/Community_Calendar#09:00a_-_WoMoz_.28every_second_Thursday.2C_every_month.29\\
+//(please note that unlike what is said on that page, these Website Meetings will be held EACH WEEK)//
+
+As for usual WoMoz meetings, please see here for **Website Meeting Agenda and Notes**:\\
+https://wiki.mozilla.org/WoMoz/StatusMeetings 

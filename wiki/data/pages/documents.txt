@@ -1,0 +1,72 @@
+
+Here is the Documents page, where we keep track of all references concerning the WoMoz project and women in Open Source.
+\\
+//(Feel free to edit and add more)//
+
+====== Blog posts ======
+[[http://cme.dreamwidth.org/107825.html|In which everything takes rather longer than I thought]] (July 2010)\\
+[[http://www.selikoff.net/2009/12/18/female-programmers-and-programmers-to-be/|Female programmers and programmers to be]] (December 2009)\\
+[[http://infotrope.net/blog/2009/07/25/standing-out-in-the-crowd-my-oscon-keynote/|Standing out in the crowd]] (July 2009)\\
+[[http://eaves.ca/2009/07/20/women-in-open-source-the-canary-in-the-coal-mine/|Women in open source - the canary in the coal mine]] (July 2009)\\
+[[http://www.webchick.net/presentations/women-in-open-source-owv-09|
+Video/Slides from Women in Open Source talk at Open Web Vancouver 09]] (July 2009)\\
+[[http://blog.lebedel.net/index.php?post/2009/05/19/Women-and-Mozilla!|Women and Mozilla!]] (May 2009)\\
+[[http://dyepot-teapot.com/2009/04/25/dear-fellow-rubyists/|Dear fellow rubyists]] (April 2009)\\
+[[http://jamesboston.ca/cms/?q=node/117|Open Source and Sex]] (April 2009)\\
+[[http://www.freesoftwaremagazine.com/columns/ten_easy_ways_attract_women_your_free_software_project|Ten easy ways to attract women to your free software project]] (September 2008)\\
+[[http://blog.milkingthegnu.org/2008/06/why-women-dont-floss.html|Why women don't FLOSS]] (June 2008)\\
+[[http://googlesummerofcode.blogspot.com/2007/05/women-in-google-summer-of-code.html|Women in Google Summer of Code]] (May 2007)\\
+[[http://blog.lizardwrangler.com/2005/08/12/women-in-open-source-and-the-mozilla-project/|Women in open source and the Mozilla project]] (August 2005)\\
+[[http://blog.lizardwrangler.com/2005/06/01/musings-on-entrepreneurship/|Musings on entrepreneurship]] (June 2005)
+
+
+====== Press articles ======
+[[http://techcrunch.com/2010/02/07/silicon-valley-you%E2%80%99ve-got-a-gender-problem-and-some-of-your-vc%E2%80%99s-still-live-in-the-past/|Silicon Valley: You and Some of Your VC's have a Gender Problem]] - TechCrunch (Feb. 2010)\\
+[[http://bayarea.blogs.nytimes.com/2009/12/28/math-tech-and-the-women-who-dont-love-them/?scp=1&sq=sally%20ride&st=cse|Math, Tech and the Women Who Don’t Love Them]] - The New York Times (Dec. 2009)\\
+[[http://www.linux-magazine.com/content/view/full/40376|Writing about FOSS sexism]] - Linux Magazine (Oct. 2009)\\
+[[http://itmanagement.earthweb.com/osrc/article.php/12068_3838186_1/Sexism-Open-Source-Softwares-Dirty-Little-Secret.htm|Sexism: Open Source Software's Dirty Little Secret]] - Datamation - IT Management (Sept. 2009)\\
+[[http://www.osbr.ca/ojs/index.php/osbr/issue/view/86|Women in open source]] - OSBR (June 2009)\\
+[[http://www.informationweek.com/news/global-cio/recruiting/showArticle.jhtml?articleID=217701035|Minorities, Women Underrepresented In IT]] - InformationWeek (June 2009)\\
+[[http://www.linux.com/archive/feature/121373|Portrait: ZaReason founder Cathy Malmrose]] - Linux.com (Nov. 2007)\\
+[[http://www.techworld.com/applications/news/index.cfm?NewsID=4182|Geeks want women]] - Techworld (Aug. 2005)\\
+
+====== Other kinds of documents ======
+
+[[http://www.youtube.com/watch?v=TUvRPmL61SI|How to Get More Women in Tech in Under a Minute]] - Caroline Drucker, Ignite NYC 2011 (YouTube, 2011)\\
+[[http://www.scribd.com/doc/27710281/I%E2%80%99m-a-Barbie-Girl-in-a-CS-World|I'm a Barbie Girl in a CS World]] - Pamela Fox, Ignite Sydney 2010 (Slides, 2010)\\
+[[http://www.ludost.org/content/women-open-source-bibliography|Women in Free and Open Source Sofware (FOSS) Bibliography]] (Bibliography - Oct. 2009)\\
+[[http://blip.tv/file/2400597|Kirrily Robert, "Standing Out in the Crowd" (O'Reilly Open Source Convention)]] (Video - July 2009) \\
+[[http://webchick.net/files/presentations/women-in-open-source-owv09-2009-06.pdf|Presentation by Angie Byron, Drupal Developer and Evangelist]] (PDF - June 2009)\\
+[[http://www.youtube.com/view_play_list?p=879E5215179979AF|Women of Vision Awards 2009]] (Youtube videos - May 2009)\\
+[[http://www.womenwhotech.com/opensource.html|Women And Open Source]] - Women Who Tech (Podcast - May 2009)\\
+[[http://www.socallinuxexpo.org/scale7x-audio/Friday/WIOS/talk%232EmmaMcGrattan.mp3|Do women approach coding differently to men?]] - Emma McGratten (MP3 - March 2009)\\
+[[http://www.socallinuxexpo.org/scale7x-audio/Friday/WIOS/talk%238discussion.mp3|Open Discussion: Women in Open Source]] (MP3 - March 2009)\\
+[[http://www.mckinsey.com/locations/paris/home/womenmatter/pdfs/Women_matter_oct2008_english.pdf|Women Matter 2]] - This new report aims at understanding how exactly female leaders contribute to improve corporate performance, and whether their specific contribution is a key factor in meeting tomorrow’s business challenges (PDF - Oct.2008)\\
+[[http://www.london.edu/assets/documents/facultyandresearch/Innovative_Potential_NOV_2007.pdf|Innovative Potential: Men and Women in Teams]] - Study revealing the importance of diversity in teams in order to reach innovation (PDF - Nov.2007)\\
+[[http://www.mckinsey.com/locations/paris/home/womenmatter/pdfs/Women_matter_oct2007_english.pdf|Women Matter. Gender diversity, a corporate performance driver]] - Study aiming at assessing the impact of gender diversity on companies' performance (PDF - Oct.2007)\\
+[[http://www.tldp.org/HOWTO/Encourage-Women-Linux-HOWTO/|HOWTO Encourage Women in Linux]] (HTML document - October 2002)\\
+[[http://en.wikipedia.org/wiki/Women_in_computing|Women in Computing]] (Wikipedia article)\\
+[[http://geekfeminism.wikia.com/wiki/List_of_women_in_Open_Source|List of women in Open Source]] (Website, [[http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki|Geekfeminism Wiki]])
+
+====== Other women's groups ======
+[[http://www.devchix.com/|DevChix]]: international group of female programmers.\\
+[[http://groups.drupal.org/drupalchix|Drupal Chix]]: if you are a woman who needs some help/guidance in order to get (more) involved with Drupal and the Drupal community, who wants to network and get to know other women involved in Drupal or anyone who has ideas on things we can do to help encourage women to participate in Drupal ... then this is the group for you.\\
+[[http://geekspeakr.com/|GeekSpeakr]]: website to help technical women speakers and event organizers to find each other.\\
+[[http://www.phpwomen.org/|PHP Women]]: user group specifically targeted toward the women in the PHP world.\\
+[[http://ubuntu-women.org|Ubuntu Women]]: team functioning under Ubuntu to provide a platform and encouragement for women to contribute to Ubuntu-Linux, a Debian based free and open-source GNU/Linux software.\\
+[[http://women.debian.org/home/|Debian Women]]: seeking to balance and diversify the Debian Project by actively engaging with interested women and encouraging them to become more involved with Debian.\\
+[[http://live.gnome.org/GnomeWomen|GNOME Women]]: GNOME Women is a group dedicated to providing encouragement for women to contribute to GNOME, a free and open-source Linux/Unix desktop suite.\\
+[[http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki|Geek Feminism]]: the Geek Feminism Wiki is a resource for and about women in geek communities.\\
+[[http://anitaborg.org/initiatives/systers|Systers]]: Systers is the world’s largest email community of technical women in computing. It promotes the interests of women in the computing and technology fields.\\
+[[http://www.anitaborg.org/|Anita Borg Institute for Women and Technology]]: "We are women technologists. We use technology to connect our communities. We create technology because it is who we are — intelligent, creative and driven (...) Working with men that believe in our mission, **we are changing the world for women and technology**."\\
+
+====== WoMoz Slides ======
+
+Slides from WoMoz presentations and talks:\\
+\\
+  * [[http://fr.slideshare.net/flore_mozfr/womoz-fosdem2013|FOSDEM talk - February 2013]] in Brussels - from Flore Allemandou
+  * [[http://www.slideshare.net/DelphineLeb/presentations|English and French Slides]] -  from Delphine Lebédel
+  * [[http://www.slideshare.net/lourcastillo/womoz-fisl-11|Spanish Slides]] - from Lourdes Castillo
+  * [[http://womoz.org/slides/jdll2010/slide.html|http://womoz.org/slides/jdll2010/slide.html]] - French Slides from [[http://www.jdll.org/|JDLL]] event, Oct. 2010. //Note: These are html slides and only work on Firefox4 (nightlies).//
+  * [[http://womoz.org/slides/upp_nov2010/slide.html|French Slides]], December 2010
+  * [[https://docs.google.com/open?id=0B6fkEC1pmwTiZGY1MjdjNTEtYzBhOC00Yzc2LTg4NmEtYjZjNWQzYTk2NDg0|MozCamp Europe (Berlin)]], November 2011 (.odp version)

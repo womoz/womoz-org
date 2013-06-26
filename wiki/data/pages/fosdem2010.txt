@@ -1,0 +1,179 @@
+====== FOSDEM 2010 ======
+
+//**__Important Note:__ Please remember to also stay tuned to the [[https://wiki.mozilla.org/Fosdem:2010|Mozilla Fosdem Wiki]]: it is regularly updated with extra info and tips concerning your stay in Brussels!**//
+
+[[http://www.fosdem.org/2010/|FOSDEM 2010]] will take place in Brussels, Belgium at the Université Libre de Bruxelles on 6/7 February, 2010.\\ 
+
+===== What and where is FOSDEM? =====
+
+FOSDEM is probably the most developer-oriented European Free and Open Source conference. It is taking place in Brussels, Belgium on Saturday 6 and Sunday 7 February 2010. Apart from having many invited speakers, the conference offers developer rooms, stands and lightning talks to projects from the Free and Open Source community. 
+[[http://www.fosdem.org/2010/|More info...]]
+
+FOSDEM will take place at the ULB Campus Solbosh:\\
+Avenue Franklin D. Roosevelt, 50\\
+1050 Bruxelles\\
+[[http://fosdem.org/2009/maps/campus]]
+
+===== WoMoz Friday Beer =====
+
+There will be a WoMoz drink on Friday evening in Brussels around 20:30 at le Roy d'Espagne: http://www.roydespagne.be/
+
+If you have received an invitation, 2 drinks (from a choice of various delicious Belgium beers or yummy juice cocktails) are kindly offered by Mozilla Europe, after which further drinks and food will be charged at your expense.
+
+Le Roy d'Espagne is on the famous [[https://secure.wikimedia.org/wikipedia/en/wiki/Grand_Place|Grand Place]] right in the center of the city, and very close to the hotels we are staying at. This way participants that wish to return to their hotel afterwards will be in walking distance, and those who wish to pursue with the [[http://womoz.org/wiki/doku.php?id=womoz_fosdem_page#fosdem_friday_beer_event|FOSDEM Beer event]] will be very close to that too.
+
+We hope this can be the occasion for WoMoz members to meet before starting out the week-end sessions!
+
+Le Roy d'Espagne on [[http://maps.google.fr/maps?f=q&source=s_q&hl=fr&geocode=&q=le+roy+d%27espagne,+bruxelles&sll=46.75984,1.738281&sspn=6.383284,16.896973&ie=UTF8&hq=le+roy+d%27espagne,&hnear=Bruxelles,+Belgique&ll=50.861878,4.359341&spn=0.045941,0.132008&t=h&z=13&iwloc=A&cid=8670402527057010316|Google maps here]]. 
+
+===== Schedule =====
+
+Two Working Sessions will take place on **Saturday** and **Sunday** mornings:
+
+  * [[http://fosdem.org/2010/schedule/rooms/h.2214|Saturday session will be held here]], in the FOSDEM University, from **10:00am** until **12:00am**.
+  * [[http://fosdem.org/2010/schedule/rooms/ua2.114|Sunday session will be held here]], in the FOSDEM University, from **9:30am** until **12:00am**.
+
+Both sessions will end on time in order to join the Mozilla DevRoom for the afternoon Mozilla Sessions.
+
+**The main goal of the WoMoz sessions will be to establish a 2010 Roadmap for the WoMoz project**.\\ 
+[[fosdem2010_daily_agenda|A daily agenda]] has been established for both workshops. The various items contained in this daily agenda will be subject to discussion. By the end of the week-end, we should have defined our roadmap for the year and determined how to achieve these 2010 goals - our main and number 1 goal being to increase the number and visibility of women contributors in Mozilla, and by extension in FLOSS. \\
+\\
+Discussions will be held in a more informal way and we encourage you to participate actively during the brainstorming!\\
+The workshops are public and men are welcome as in all WoMoz activities.\\
+
+===== WoMoz Booth =====
+
+We will have a dedicated spot on the [[https://wiki.mozilla.org/Fosdem:2010#Mozilla_Booth|main Mozilla booth]] to man a WoMoz booth section. The WoMoz section will be manned by volunteers.
+If you would like to help out, please sign up in the chart below. Thanks in advance!
+
+
+^ Saturday       ^                  ^ Sunday         ^                 ^
+^ Hours          ^ Name             ^ Hours          ^ Name            ^
+^  12h00         | Flore            |  12h00         | Andrea          |
+^  13h00         | Katarzyna        |  13h00         | Flore           |  
+^  14h00         | Flore            |  14h00         | Katarzyna       |
+^  15h00         | Marianyka        |  15h00         | Marianyka       |
+^  16h00         | Andrea           |  16h00         | Delphine        |
+^  17h00         | Flore            |  17h00         |                 |
+
+   (I'm not yet sure of my schedule -- when i'm speaking, etc.  But i hope to spend
+    some time at the booth -- Mitchell)
+
+
+
+
+===== Contact Persons =====
+
+If ever you need anything during your stay in Brussels, or if you need more information, please don't hesitate to contact:
+
+**William**\\
+william at mozilla dot com\\
+(+33) 626 051 784\\
+
+**Irina**\\
+isandu at mozilla dot com\\
+(+33) 673 757 884\\
+
+**Delphine**\\
+delphine at mozilla dot com\\
+(+33) 611 51 34 49\\
+
+And remember to stay regularly tuned to the [[https://wiki.mozilla.org/Fosdem:2010|Mozilla Fosdem Wiki]] for further information and details about your stay!
+
+====== FOSDEM 2010 Agenda ======
+
+The following items will be on the daily agendas during [[http://www.fosdem.org/2010/|FOSDEM]] and open for discussion. The agendas should help us in defining the WoMoz 2010 Roadmap, our main goal being to increase the number and visibility of women contributors in Mozilla.
+
+===== Schedule =====
+
+As we have 2 hours to complete each daily agenda, this gives us about half an hour to discuss each of the 3 topics:
+
+|             ^ Saturday                                  ^ Sunday                                                ^
+^ 09:30-10:00 |                                           | Drumbeat discussion                                    |
+^ 10:00-10:05 | Intro to agenda                           | Recap and intro to agenda                              |
+^ 10:05-10:35 | Typology of the contributors              | More visibility                                        |
+^ 10:35-11:05 | Their experiences as women in OS & Mozilla| More attractiveness                                    |
+^ 11:05-11:20 | //Break//                                 | //Break//                                              | 
+^ 11:20-11:50 | Organizing Ideas                          | Create more open communities.What is an open community?| 
+^ 11:50-12:00 | Wrapping up                               | Wrapping up: the Roadmap                               |
+
+
+On Sunday, from 13:00 to 13:15, Alix and Delphine will present Women & Mozilla project during a lightning talk. Slides are available on [[http://www.slideshare.net/DelphineLeb/womoz-fosdem-2010|Slideshare]].
+
+===== Saturday: Overview of women in Mozilla =====
+====  Typology of the contributors ====
+
+Amongst regular contributors, how many are women? Who are they and in what different areas do they contribute? There are many ways to analyze communities' contributors:
+   * Contacting community leaders: how many persons are there in our community ? On this total, how many are women?
+   * Contacting localization communities: generally, they are the corner stone of local communities
+   * Making a short questionnaire to those women to find out what they do in Mozilla, why they do that,...
+   * Showing what we do, who we are and that we are an open community, making communities more welcoming to new contributors.
+   * Identifying if Mozilla communities can be more effective in their work, improving collaborative work.
+   * Getting in touch with other women's groups in FLOSS projects.
+
+==== What are their experiences/feelings as women in floss & Mozilla? ====
+
+   * Identifying issues: if a person quit the community, ask why he / she has left (feedback system centered on the community). This can help to measure what can affect contributions and why women don't want to participate, and if there is any discriminative behavior.
+   * Sometimes, newcomers can feel intimidated when there are too many men and not enough women (although some feel that way when there are too many women – so a good mix could be good for everyone)
+   * It's easy to get lost after joining the community: people want to help out but are not sure what they want to do or what they can do (especially when they don't have computer skills). They can also easily get lost and not understand how to contribute
+
+==== How can we highlight/promote the women contributors that wish to be ====
+
+   * After identifying these women contributors, we will ask them to show their motivations in contribution (interviews).
+   * Use word of mouth.
+   * Being present and visible: events but also on Internet (blog posting, planet,...).
+   * Creating a page starting with simple bugs to resolve, quick contributions. To each task on the list, add a person who could / is willing to help (but not one-on-one mentoring, more general help) => providing a support network.
+   * Create a "newbie" team that can help person to find what team they have to join, what person contact, depending on what they want to do.
+   * Organizing WoMoz workshops (oriented towards a specific area: addons, web design, ...). We could also join other women events or FLOSS events
+   * Subscribing to the [[http://geekspeakr.com|GeekSpeakr]] database, in order to be available for lectures/talks.
+   * Contacting general education (kids starting in primary) , universities, groups from universities and higher education institutions. Different age groups require different approaches (the older women are, the less time they have, but that changes at some point).
+
+===== Sunday: How to attract more women contributors in Mozilla =====
+
+
+
+==== More visibility ====
+
+We have to use various tools to increase the visibility of women contributors in Mozilla:
+
+  * Creating a video project: women interviews, documentary, short videos, tutorials,...
+  * Participating to none-FLOSS Events (Women in IT), writing in magazines geared towards a more general public (women's magazines, ...).
+  * Having more women speakers during events to change the image of free software, training people to give talks and make speeches (that should be in the newcomers team), coaching by organizing small talks within the communities (Whistler for example) and hold a coaching/"evaluating" process at the end: we can give them feedback on their talks at the end to help participants improve their speaking skills.
+
+
+==== More attractiveness ====
+
+  * Changing the mentality within communities.
+  * Creating a Mozilla Foundation mandate, a charter against **all** discriminative behaviors. The goal is to get it approved by Mozilla Foundation Board.
+  * Advocating to community leaders: they have to balance between coding and none-coding contributions and promote all kinds of contributions within their own communities. We must highlight the fact that all contributions are valuable and that there are many existing fields of contribution.
+
+
+
+
+
+==== Drumbeat session (with Alina) ====
+
+The Manifesto can be quite difficult to understand, especially for someone outside of the Mozilla community. All the projects in Mozilla are linked to the manifesto, directly or not.
+Why are we doing Drumbeat? Educating people, explaining Mozilla goals more simply:
+
+  * Speaking more about history because it's not common (even inside the Mozilla community)
+  * Making simple slides for communities, videos about the manifesto (a documentary maybe),...
+  * Creating student channel for IRC (#new-contrib)
+WoMoz and Drumbeat have some common goals that we should try thinking about and working on together. 
+
+====== Roadmap 2010 ======
+
+For each item discussed in the Agenda, we will make sure to fill up the information in this Action Chart. This will hopefully help us in conretising our 2010 Roadmap efficiently and as much as possible afterwards. \\
+It is likely that we will not have enough time during FOSDEM to complete certain sections of the chart (such as Who's in Charge). The discussion will therefore be continued amongst all WoMoz community members after FOSDEM and the chart completed accordingly. This will also give WoMoz members that can't attend the WoMoz-FOSDEM sessions the opportunity to take part in the Roadmap discussion.
+
+^  Category  ^  Tasks  ^  Who  ^  ETA  ^  Done  ^
+|  Inside the community  |  Contact community leaders  |  Delphine, Julia, FLK  |  March 2010  |  X  |
+| ::: |  List of women contributors and their involvement  |  :::  |  March 2010  |  X  |
+| ::: |  Divide WoMoz contributors into sub-workgroups (more efficiency)  |    |  Mid-March \\ End March 2010  |  X  |
+^    ^    ^    ^    ^    ^ 
+|  Outside the community  |  Create lectures training sessions [postponed]   |    |  July 2010  |    |
+| ::: |  Initiate the testimony movement  |    |  September 2010  |  X  |
+| ::: |  Diversity charter  |  Delphine, OWF-GED Team  |  End September \\ Start October 2010  |  X  |
+| ::: |  Public communication (video project, papers,..), gather testimony from outside Mozilla  |     |  Last quarter 2010  |  X  |
+| ::: |  Start newcomers welcoming program (specific IRC channel, tutorials,...)  |    |  End 2010  |    |
+| ::: |  Instore "rewinds" for contributions  |    | :::  |    |

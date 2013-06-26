@@ -1,0 +1,13 @@
+====== Women & Mozilla ======
+
+{{:logos:logo9.jpg?300 }}
+
+  - [[The project]]: explanation, overview and objectives of the WoMoz project\\
+  - [[Joining open source projects]]: want to help FLOSS projects? Become a contributor\\
+  - [[Our actions|WoMoz Actions]]: actions to increase women's visibility in FLOSS projects\\
+  - [[Our actors|WoMoz Contributors]]: meet our contributors\\
+  - [[Calendar]]: interesting conferences and talks, meet-up sessions, meetings & more\\
+  - [[Documents]]: links to documents and studies related to Women & FLOSS\\
+  - [[TODO list]]
+  - [[Our pantheon|Influential Women]]: portraying some influential women in FLOSS and computing\\
+  - [[Contact us]]: how to contact WoMoz members for more information, as well as a list of our communication tools to stay informed about WoMoz\\ 

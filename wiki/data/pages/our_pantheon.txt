@@ -1,0 +1,146 @@
+Here are few emblematic and recognized women in FLOSS projects:\\
+//(Feel free to edit and add more influential women in computing)//
+ 
+====== Winifred Mitchell Baker ======
+
+{{:pantheon:mitchell_baker.jpg?250 }}\\
+\\
+**Born:** \\
+1957, Berkeley, California
+
+**Occupation:** \\
+Chairman, [[http://www.mozilla.org|Mozilla Foundation]]
+
+**Education:** 
+  * AB Asian Studies, University of California, Berkeley
+  * JD, Boalt Hall School of Law, University of California, Berkeley
+
+**Biography:** \\ As the leader of the Mozilla Project, Mitchell Baker is responsible for organizing and motivating a massive, worldwide collective of employees and volunteers who are breathing new life into the Internet with the Firefox Web browser and other Mozilla products.\\
+\\
+Baker was born and raised in Berkeley, California, receiving her AB in Asian Studies and later a degree in Law from UC Berkeley. Her law career included working for Sun Microsystems and Netscape, specializing in intellectual property and software technology. She has also sat on the board of the Open Source Applications Foundation.\\
+\\
+Baker has been the general manager of the Mozilla project since 1999, helping shape the license under which Netscape's source code was released. In 2003, she became president and founder of the Mozilla Foundation, a non-profit organization dedicated to openness and innovation on the Internet. In 2005, Baker led the creation of Mozilla Corp., a wholly owned subsidiary of the Mozilla Foundation.  Baker served as as CEO of the corporation until January 2008, when Mozilla’s rapid growth encouraged her to shift her focus back to the scope and mission of the project. [[http://casinogamesonline.es/|casino online]]. As Chairman of the Mozilla Foundation, Baker continues her commitment to an open, innovative Web and the infinite possibilities it presents.\\
+\\
+TIME Magazine profiled Baker under “Scientists and Thinkers” in its 2005 TIME 100. She has also appeared on “The Charlie Rose Show” and “CNN Global Office." Since 2007 she has participated in the World Economic Forum as a panelist at the annual meeting in Davos, and in 2009 she was honored with the Anita Borg Award for Leadership.\\ 
+
+**Quote:**\\
+//"Mozilla is people having fun building a better Internet."// \\
+
+**Links:** \\
+http://blog.lizardwrangler.com/: Mitchell's Blog \\[[http://europeanrouletteonlinegame.co.uk|roulette online game]]
+http://en.wikipedia.org/wiki/Mitchell_Baker: Wikipedia, Mitchell Baker
+
+**Videos:** \\
+[[http://www.youtube.com/watch?v=5ZGDjTlf434&feature=PlayList&p=879E5215179979AF&index=1|Mitchell Baker, 2009 Women of Vision Winner for Leadership]] (YouTube)
+[[http://freecasinogamebonuses.co.uk|casino game bonuses]]
+
+====== Satoko Takita ======
+
+{{:pantheon:satoko_takita.jpg?300 }}\\
+\\
+
+**Occupation:** Chair of the Board of Directors at [[http://mozilla.jp|Mozilla Japan]]\\
+
+**Education:**
+
+**Biography:**
+From 1996 to 2003, Satoko Takita worked for Netscape Communications, where she was Product Manager during seven years.\\
+\\
+She then worked for Mozilla Japan as Product Manager, from 2004 until 2006.\\
+\\
+Since July 2006 Satoko works as Chair Person of the Board of Directors, for Mozilla Japan.
+
+
+
+**Quote:**
+
+**Links:**\\
+[[http://mozilla.jp/|Mozilla Japan Website]]\\
+[[http://en.wikipedia.org/wiki/Mozilla_Japan]]: Wikipedia, Mozilla Japan\\
+
+====== Audrey Tang ======
+{{:pantheon:audreytang.jpg?200 }}
+**Biography:**\\
+Audrey Tang (Traditional chinese: 唐鳳) is a Taiwanese free software programmer, best known for initiating and leading the [[https://secure.wikimedia.org/wikipedia/en/wiki/Pugs|Pugs project]], a joint effort from Haskell and Perl communities to implement the Perl 6 language.
+
+She is also known for internationalization and localization contributions to several Free Software programs, including [[http://www.kwiki.org/|Kwiki]], [[http://bestpractical.com/rt/|Request Tracker]] and [[https://secure.wikimedia.org/wikipedia/en/wiki/Slash_%28software%29|Slash]], as well as heading Traditional Chinese translation efforts for various Open Source-related books.
+
+On [[http://www.cpan.org/|CPAN]], Tang maintains over 100 Perl projects, including the popular [[http://par.perl.org/wiki/Main_Page|Perl Archive Toolkit]] (PAR), a cross-platform packaging and deployment tool for Perl 5. She is also responsible for setting up smoke test and digital signature systems for CPAN.
+
+Being a high school dropout, Tang is a vocal proponent for autodidactism and [[https://secure.wikimedia.org/wikipedia/en/wiki/Individualist_anarchism|individualist anarchism]].
+
+//(This biography is licensed under the [[http://www.gnu.org/copyleft/fdl.html|GNU Free Documentation License]]. It uses material from the [[http://en.wikipedia.org/wiki/Audrey_Tang|Wikipedia article "Audrey Tang"]].)//
+
+**Link:** http://pugs.blogs.com/
+
+====== Leah Culver ======
+{{:pantheon:leahculver.jpg?200 }}
+**Biography:**\\
+Leah Culver was a co-founder and the lead developer of the social network and micro-blogging website [[http://pownce.com/|Pownce]], which was acquired by blog juggernaut Six Apart in November 2008.\\ 
+While creating the Pownce API she co-authored both the [[http://oauth.net/|OAuth]] and [[http://oembed.com/|OEmbed]] open API specifications and now maintains the popular Python OAuth library. Leah promotes open source, APIs, and the [[http://www.djangoproject.com/|Django]] web framework on her blog at [[http://leahculver.com/|leahculver.com]].\\
+In her free time she likes to play around with new technology and try new restaurants near her home in San Francisco. (- Press Bio)\\
+Read more about Leah on her [[http://blog.leahculver.com/about.html|blog's "about" page]].
+
+**Sites she's built:**
+    * Pownce Social network and micro-blogging site.
+    * Baconfile Simple web interface for Amazon S3.
+    * Hurl HTTP client and tool for testing APIs. Winner of "Most Complete" in the 2009 Rails Rumble.
+    * Leafy Chat (Coming soon!)
+
+**Link:** http://blog.leahculver.com/
+
+**Photo Credits:** Brian Solis, Creative Commons 2.0 License, [[http://creativecommons.org/licenses/by/2.0/|some rights reserved]]
+
+====== Grace Hopper ======
+{{:pantheon:grace_hopper.jpg?200 }}\\
+\\
+**Born - Died:**\\
+December 9, 1906, New York, U.S.A. - 1st January 1992\\
+
+**Occupation:**\\
+Computer Scientist & Rear Amiral
+
+**Education:**\\
+  * Master's degree in mathematics and physics\\
+  * Ph.D. in mathematics
+
+**Biography:**\\
+She knew that the only way to introduce computers in non-scientific as well as in commercial sectors was to refine the programming language to become a language understandable by non-mathematicians. Her belief that the programs could be written in English aroused the hilarity of her colleagues. At that time, a wide commercial was not the concern of IBM, and general belief was that only scientists were able to use computers. By writing in 1952 the first compiler, Hopper has allowed the spread as the widespread use of these languages, and thus opened the door of programming to all, rather than a small handful of mathematicians.
+
+**Quote:**\\
+//If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission. \\
+You don't manage people, you manage things. You lead people. \\
+They told me computers could only do arithmetic.// 
+
+**Links:**\\
+[[http://en.wikipedia.org/wiki/Grace_Hopper|Wikipedia Page for Grace Hopper]]
+
+
+====== Ada Lovelace ======
+
+{{:pantheon:ada_lovelace.jpg?200 }}\\
+\\
+**Born - Died:** \\ 
+December 10, 1815, London, England\\
+November 27, 1852, London, England
+
+**Occupation:** \\
+Countess of Lovelace \\
+
+**Education:** \\
+  * Privately home-schooled in Mathematics and Sciences
+
+**Biography:** \\ 
+She is mainly known for having written a description of Charles Babbage's early mechanical general-purpose computer, the analytical engine. She is today appreciated as the "first programmer" since she was writing programs — that is, manipulating symbols according to rules — for a machine that Babbage had not yet built. She also foresaw the capability of computers to go beyond mere calculating or number-crunching while others, including Babbage himself, focused only on these capabilities. \\
+(...) In 1953, over one hundred years after her death, Lovelace's notes on Babbage's Analytical Engine were republished. The engine has now been recognized as an early model for a computer and Lovelace's notes as a description of a computer and software. \\
+The computer language Ada, created by the U.S. Defense Department, was named after Lovelace. The reference manual for the language was approved on 10 December 1980, and the Department of Defense Military Standard for the language, "MIL-STD-1815", was given the number of the year of her birth ([[http://en.wikipedia.org/wiki/Ada_Lovelace|Wikipedia extract]])
+
+**Quote:** \\
+
+**Links:** \\
+http://en.wikipedia.org/wiki/Ada_Lovelace \\
+http://www.agnesscott.edu/lriddle/women/love.htm \\
+http://www.fourmilab.ch/babbage/contents.html \\
+
+\\
+//(Feel free to edit and add more famous and influential women in computing)//

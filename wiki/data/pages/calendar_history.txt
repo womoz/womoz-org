@@ -1,0 +1,28 @@
+
+===== Conferences and Talks =====
+
+  * **10 March 2010**: WoMoz Project presentation at [[http://www.epitech.eu/|Epitech University]] in Paris, during their week on Diversity Theme
+  * **5-7 Feb 2010**: WoMoz Workgroup sessions are programmed. There will be a lightning talk by Alix Cazenave and Delphine, as well as a WoMoz booth during the event. \\ More info: [[fosdem2010|FOSDEM 2010]].
+  * **27-28 Nov 2009**: [[http://jm2l.linux-azur.org/|JM2L]] in Sophia Antipolis (France),  Delphine will be presenting the WoMoz project (possibility of dedicated booth).
+  * **16-17 Oct 2009**: [[http://www.jdll.org/|JDLL]] in Lyon (France), Julia and Delphine will man a dedicated booth to present the WoMoz project.
+  * **19 Sept 2009**: [[http://09.podcampbarcelona.org/|Podcamp Barcelona]] (Spain), Delphine will be presenting Mozilla communities, as well as the WoMoz project.
+
+===== WoMoz Meet-up Sessions =====
+
+Want to organize in your own country a brainstorming session with members of your community, in order to exchange ideas to promote women's position in open source? You can propose a session here. People interested in attending can add their names next to the proposed session.
+
+  * **6-7 Feb 2010:** [[http://www.fosdem.org/2010/|FOSDEM]], [[fosdem2010|FOSDEM 2010]] and [[fosdem2010_daily_agenda|FOSDEM 2010 Agenda & Notes]]
+  * **2 Oct 2009:** [[http://www.womoz.org/blog/?p=63|WoMoz Brainstorming Dinner]], MozCamp Pragues
+
+===== WoMoz Meetings =====
+
+  * **Every second Thursday of every month:** 09:00a Pacific, 17:00 UTC
+    * [[https://wiki.mozilla.org/WoMoz/StatusMeetings|Agenda + Notes]] (on the Mozilla Wiki)
+    * IRC: [[irc://irc.mozilla.org/womoz|#womoz]] on moznet
+
+For the moment, meetings are held on IRC. Later, calls will be at: 
+    * US/International: +1 650 903 0800 x92 Conf# 8600
+    * Canada: +1 416 848 3114 x92 Conf# 8600
+    * US toll-free: +1 800 707 2533 (pin 369) Conf# 8600
+
+**Please see our [[https://wiki.mozilla.org/WoMoz/StatusMeetings|Agenda and Notes on the Mozilla Wiki]] for more details. Future meetings and topics are listed there, as well as the meeting notes from these sessions.**

@@ -1,0 +1,30 @@
+__**Site**__
+
+=> [[Womanifesto]]\\
+=> [[The project]]\\
+=> [[Joining open source projects]]\\
+=> [[Our actors|WoMoz Contributors]]\\
+=> [[Calendar]]\\
+=> [[Documents]]\\
+=> [[TODO list]]\\
+=> [[Our actions|WoMoz Projects]]\\
+=> [[Our pantheon|Influential Women]]\\
+=> [[Contact us]]\\ 
+
+__**Past Projects**__
+
+=> [[redesigning_womoz_website|Website Redesigning]]\\
+=> [[survey|WoMoz Survey]]\\
+=> [[http://womoz.org/wiki/doku.php?id=fosdem2010#roadmap_2010|2010 Roadmap]]\\
+=> [[TODO list]]\\
+
+__**Navigation**__
+
+=> [[http://www.mozilla.org/contribute/|How to contribute to Mozilla]]\\
+=> [[http://www.mozilla.org/about/manifesto.en.html|The Mozilla Manifesto]]\\
+=> [[http://planet.mozilla.org/|News from Planet Mozilla]]\\
+=> [[http://blog.mozilla.com/about_mozilla/|about:mozilla is by, for and about the Mozilla community]]\\
+=> [[http://www.spreadfirefox.com/|Interested in community marketing?]]\\
+=> [[https://developer.mozilla.org/En|Developing add-ons, Mozilla code, Web development...]]\\
+=> [[http://www.mozilla.org/|Visit Mozilla.org]]\\
+=> [[http://www.dokuwiki.org/syntax|Wiki syntax Help]]\\

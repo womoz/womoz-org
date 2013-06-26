@@ -1,0 +1,331 @@
+/*
+THEME NAME: WoMoz Wordpress Theme
+THEME URI: http://www.womoz.org/
+DESCRIPTION: This theme has be set during the WoMoz Project in 2009 - 2010
+VERSION: 1.2
+AUTHOR: <a href="http://julia.buchner.fr>Julia Buchner</a>
+AUTHOR URI: http://julia.buchner.fr
+*/
+
+/* SUMMARY
+ * I/  DEFAULT VARIABLES 
+ * II/ HEADER
+ *     -> SEARCH BOX
+ *     -> TITLE
+ * III/ BODY & SIDEBAR
+ * IV/ POSTS
+ */
+
+/************************ I/ DEFAULT VARIABLES ************************/
+
+* {
+    margin: 0px auto!important;
+    padding: 0px auto!important;
+}
+
+@font-face {
+    font-family: Vibrocentric;
+    src: url("fonts/vibrocen.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    background-color: #98B3F0;
+    background-image: url(images/fondSansFooter.png); 
+    background-repeat: no-repeat;
+    background-position: top;
+    font-family: Verdana,sans-serif;
+}
+
+#body-wrapper {
+    width: 966px;
+    overflow: hidden;
+}
+
+/***************************** II/ HEADER *****************************/
+
+#header_topborder {
+    height: 10px;
+    background: #294578;
+    font-size: 70%;
+    text-align: center;
+}
+
+#mozilla_header ul { padding: 0; }
+#mozilla_header li { display: inline; }
+
+#mozilla_header a { 
+    display: block;
+    float: left;
+    text-decoration: none;
+    color: #ffffff;
+    padding: 6px 25px;
+    background: #294578;
+}
+
+#mozilla_header a:hover {
+    color: #4184B6;
+    font-style: italic;
+}
+
+/**** A) SEARCH BOX ****/
+
+#mozilla_header a.first, #mozilla_header form  {
+    -moz-border-radius-bottomleft: 5px; 
+    -webkit-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius: 5px; /*chrome*/
+    -khtml-border-radius-bottomleft: 5px;
+}
+#mozilla_header a.last, #mozilla_header form {
+    -moz-border-radius-bottomright: 5px; 
+    -webkit-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius: 5px; /*chrome*/
+    -khtml-border-radius-bottomright: 5px;
+}
+
+#mozilla_header form {
+    float: right;
+    padding: 6px 25px;
+    background: #294578;
+}
+
+#mozilla_header form input#s {
+    border: 1px solid #1F3C6C;
+    color: #696969;
+}
+
+#mozilla_header form input#searchsubmit {
+    width: 26px;
+    background: #78B939;
+    color: #ffffff;
+    border: 1px solid #B9D999;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -webkit-border-top-left-radius:5px; /* chrome*/
+    -webkit-border-top-right-radius:5px;
+    -webkit-border-bottom-left-radius:5px;
+    -webkit-border-bottom-right-radius:5px;
+    -khtml-border-radius: 5px;
+}
+
+/**** B) TITLE ****/
+
+#title_header {
+    height: 200px;
+    background-image: url(images/WoMoz.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#title_header h1 {
+    line-height: 170px;
+    padding-left: 270px; 
+}
+
+#title_header a { color: #294578; text-decoration: none; }
+
+/*********************** III/ BODY & SIDEBARS *************************/
+
+#body-content {	
+    overflow: hidden;
+}
+
+#sidebar h4 {
+    display: block;
+    padding: 10px 10px 5px;
+    font-family: Vibrocentric;
+    font-size: 16px;
+    color: #CF6825;
+}
+
+#left-sidebar { float: left; }
+#right-sidebar { float: right; }
+
+#left-sidebar, #right-sidebar {
+    width: 150px;
+    font-size: 80%;
+    margin-top: 10px!important;
+    background: #294578;
+    color: #ffffff;
+}
+
+#left-sidebar ul, #right-sidebar ul { padding: 0 0 5px; }
+
+#left-sidebar li, #right-sidebar li {
+    padding: 5px 0 5px 10px;
+    list-style: none;
+}
+#left-sidebar a, #right-sidebar a{ 
+	color: #ffffff; 
+	text-decoration: none;
+}
+
+#left-sidebar {
+    -moz-border-radius-topleft: 5px;
+    -webkit-border-radius-topleft: 5px;
+    -webkit-border-top-left-radius:5px; /*chrome*/
+    -khtml-border-radius-topleft: 5px;
+    -moz-border-radius-bottomleft: 5px;
+    -webkit-border-radius-bottomleft: 5px;
+    -webkit-border-bottom-left-radius:5px; /*chrome*/
+    -khtml-border-radius-bottomleft: 5px;
+}
+
+#right-sidebar, #right-sidebar li.first-right-li {
+    -moz-border-radius-topright: 5px; 
+    -webkit-border-radius-topright: 5px;
+    -webkit-border-top-right-radius:5px; /*chrome*/
+    -khtml-border-radius-topright: 5px;
+    -moz-border-radius-bottomright: 5px; 
+    -webkit-border-radius-bottomright: 5px;
+    -webkit-border-bottom-right-radius:5px; /*chrome*/
+    -khtml-border-radius-bottomright: 5px;
+}
+
+#content {
+	width: 664px; 
+    border: 1px solid #294578;
+    background: #ffffff; 
+	-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -webkit-border-top-left-radius:8px; /* chrome*/
+    -webkit-border-top-right-radius:8px;
+    -webkit-border-bottom-left-radius:8px;
+    -webkit-border-bottom-right-radius:8px;
+    -khtml-border-radius: 8px;
+}
+
+/**************************** IV/ POSTS *******************************/
+
+.post {
+	padding : 20px;
+	text-align: justify;
+	border-bottom: 1px solid #294578;
+}
+
+/**** A) POST TITLE ****/
+
+.post h2 a {
+    color: #006699;
+    text-decoration: none;
+    font-family: Vibrocentric;
+}
+
+.post h2 { padding-bottom: 10px; }
+
+/**** B) POST METADATA ****/
+
+.postmetadata { 
+    font-size: 11px;
+    color: #999;
+    padding-bottom: 7px;
+}
+
+.postmetadata a { color: #999; }
+
+.more-link {
+    display: block;
+    margin-top: 7px;
+    text-decoration: none;
+}
+
+/**** B) POST CONTENT ****/
+
+.post_content {
+    font-family:  Helvetica, Arial, Sans-serif;
+    font-size: 0.9em;
+    color: #555;
+    line-height: 135%;
+}
+
+.post_content h1 { font-size: 115%; padding-left: 15px; line-height: 30px; }
+.post_content h2 { font-size: 105%; }
+.post_content p { padding: 10px 0; }
+.post_content a { color: #006699; text-decoration: none; }
+.post_content a:hover { color: #fff; background: #006699; }
+.post_content a img { border:none; }
+.post_content li { padding-top: 15px; }
+.post_content blockquote {
+    background-color: #C4D7ED;
+    border-width: 6px 1px 1px 6px;
+    border-color: #294578;
+    border-style: solid;
+    color: #000000;
+	font-style: italic;
+	margin: 20px 10px !important;
+	padding: 0 15px;
+}
+
+/****C) COMMENTS ****/
+
+.comments-template { padding: 20px; text-align: justify; }
+h3#comments, h3#respond { font-family: Vibrocentric; }
+
+.comments-template ol {
+	margin: 0px;
+	padding: 10px;
+	list-style: none;
+}
+ 
+.comments-template ol p {
+    font-family:  Helvetica, Arial, Sans-serif;
+    font-size: 0.9em;
+    color: #555;
+    line-height: 135%;
+}
+ 
+.comments-template ol li {
+	margin: 10px 0 0 0;
+	line-height: 15px;
+	padding: 0 0 10px;
+}
+ 
+.commentmetadata{
+	margin-bottom: 10px;
+	font-size: 0.9em;
+}
+ 
+.comments-template p.nocomments{
+	padding: 0;
+}
+ 
+.comments-template textarea{
+	font-family:  Helvetica, Arial, Sans-serif;
+	font-size: 0.9em;
+}
+
+#commentform, #respond, #pages{
+	margin : 10px 20px;
+}
+
+.message{
+    display: none;
+}
+
+/**** NAVIGATION ****/
+
+.navigation, .navigation a {
+    color: #006699;
+    font-family:Helvetica,Arial,Sans-serif;
+    font-size:0.9em;
+}
+.navigation { padding: 10px; }
+
+
+/**************************** V/ FOOTER *******************************/
+
+#body-footer { margin-top: 100px!important; }
+#footer ul { padding: 0; }
+#footer li { display: inline; }
+#footer a {
+    text-decoration: none;
+    color: #294578;
+    display: block;
+    float: left;
+    padding: 20px 25px;
+    font-weight: bold;
+ }
+ 
+ #footer a:hover { color: #ffffff; }
+

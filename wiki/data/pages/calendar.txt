@@ -1,0 +1,8 @@
+====== Calendar for our meetings ======
+
+===== WoMoz Meetings =====
+
+**Please join our mailing list or keep on the look out on [[https://twitter.com/WoMozilla|our twitter account]] as they are either every second Tuesday, at 16:00UTC or every second Wednesday at 20:00 UTC**
+    * Recent Meeting Notes: [[http://womoz.etherpad.mozilla.org/]]
+    * Older Meeting Notes: [[https://wiki.mozilla.org/WoMoz/StatusMeetings|Agenda + Notes]] (on the Mozilla Wiki)
+    * IRC: [[irc://irc.mozilla.org/womoz|#womoz]] on moznet

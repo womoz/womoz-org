@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://womoz.org/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://womoz.org/wiki/feed.php">
+        <title>Women &amp;amp; Mozilla</title>
+        <description></description>
+        <link>http://womoz.org/wiki/</link>
+        <image rdf:resource="http://womoz.org/wiki/lib/images/favicon.ico" />
+       <dc:date>2013-06-26T14:12:45+02:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=calendar&amp;rev=1367455758&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=calendar_history&amp;rev=1276274566&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=contact_us&amp;rev=1305564708&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=documents&amp;rev=1366985453&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=fosdem2010&amp;rev=1295545041&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=joining_open_source_projects&amp;rev=1285684230&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=meeting-notes&amp;rev=1332180187&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=on-board_guide_for_new_members&amp;rev=1322146458&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=our_actions&amp;rev=1367456453&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=our_actors&amp;rev=1367456815&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=our_pantheon&amp;rev=1366976587&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=redesigning_womoz_website&amp;rev=1304693487&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=sidebar&amp;rev=1367456686&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=survey&amp;rev=1304693038&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=the_project&amp;rev=1315579038&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=todo_list&amp;rev=1367455917&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=womanifesto&amp;rev=1315578930&amp;do=diff"/>
+                <rdf:li rdf:resource="http://womoz.org/wiki/doku.php?id=womoz&amp;rev=1266255447&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://womoz.org/wiki/lib/images/favicon.ico">
+        <title>Women &amp;amp; Mozilla</title>
+        <link>http://womoz.org/wiki/</link>
+        <url>http://womoz.org/wiki/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=calendar&amp;rev=1367455758&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T02:49:18+02:00</dc:date>
+        <title>calendar</title>
+        <link>http://womoz.org/wiki/doku.php?id=calendar&amp;rev=1367455758&amp;do=diff</link>
+        <description>WoMoz Meetings
+
+
+Please join our mailing list or keep on the look out on our twitter account as they are either every second Tuesday, at 16:00UTC or every second Wednesday at 20:00 UTC
+
+	*  Recent Meeting Notes: &lt;http://womoz.etherpad.mozilla.org/&gt;
+		*  Older Meeting Notes: Agenda + Notes (on the Mozilla Wiki)
+		*  IRC: #womoz on moznet</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=calendar_history&amp;rev=1276274566&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-06-11T18:42:46+02:00</dc:date>
+        <title>calendar_history</title>
+        <link>http://womoz.org/wiki/doku.php?id=calendar_history&amp;rev=1276274566&amp;do=diff</link>
+        <description>Conferences and Talks
+
+	*  10 March 2010: WoMoz Project presentation at Epitech University in Paris, during their week on Diversity Theme
+	*  5-7 Feb 2010: WoMoz Workgroup sessions are programmed. There will be a lightning talk by Alix Cazenave and Delphine, as well as a WoMoz booth during the event. 
+More info: FOSDEM 2010.
+	*  27-28 Nov 2009: JM2L in Sophia Antipolis (France),  Delphine will be presenting the WoMoz project (possibility of dedicated booth).
+	*  16-17 Oct 2009: JDLL in Lyon (Fra…</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=contact_us&amp;rev=1305564708&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-16T18:51:48+02:00</dc:date>
+        <title>contact_us</title>
+        <link>http://womoz.org/wiki/doku.php?id=contact_us&amp;rev=1305564708&amp;do=diff</link>
+        <description>Here are some communication tools in order to contact us:
+
+
+Contact us
+
+	*  Delphine: delphine at mozilla-europe dot org
+
+
+(Nickname is delphine on irc.mozilla.org)
+
+Who to contact
+
+
+If you encounter problems with some of our tools:
+
+
+	*  videos: Janet, Lsblakk, Theo, Pavel
+	*  wiki: Delphine
+	*  blog: Delphine
+	*  bugzilla: Lsblakk, Pavel, wormsxulla
+	*  Facebook: Anamaria, Delphine</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=documents&amp;rev=1366985453&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-26T16:10:53+02:00</dc:date>
+        <title>documents</title>
+        <link>http://womoz.org/wiki/doku.php?id=documents&amp;rev=1366985453&amp;do=diff</link>
+        <description>Here is the Documents page, where we keep track of all references concerning the WoMoz project and women in Open Source.
+
+
+(Feel free to edit and add more)
+
+
+
+In which everything takes rather longer than I thought (July 2010)
+
+Female programmers and programmers to be (December 2009)
+
+Standing out in the crowd (July 2009)
+
+Women in open source - the canary in the coal mine (July 2009)
+
+
+Video/Slides from Women in Open Source talk at Open Web Vancouver 09 (July 2009)
+
+Women and Mozilla! (May 2009)…</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=fosdem2010&amp;rev=1295545041&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-01-20T18:37:21+02:00</dc:date>
+        <title>fosdem2010</title>
+        <link>http://womoz.org/wiki/doku.php?id=fosdem2010&amp;rev=1295545041&amp;do=diff</link>
+        <description>Important Note: Please remember to also stay tuned to the Mozilla Fosdem Wiki: it is regularly updated with extra info and tips concerning your stay in Brussels!
+
+FOSDEM 2010 will take place in Brussels, Belgium at the Université Libre de Bruxelles on 6/7 February, 2010.</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=joining_open_source_projects&amp;rev=1285684230&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-09-28T16:30:30+02:00</dc:date>
+        <title>joining_open_source_projects</title>
+        <link>http://womoz.org/wiki/doku.php?id=joining_open_source_projects&amp;rev=1285684230&amp;do=diff</link>
+        <description>It might seem a bit tricky at first sight to participate in an open source project. Not that the community is especially closed, but when you're new it can easily become unclear how and where to start.
+
+
+
+Will I be accepted?
+
+Am I competent enough to help people who are already quite techies?
+
+But I don't code, I'm not very good in all that computer stuff...
+
+I have good programming knowledge but I don't know where to start to contribute efficiently
+
+
+
+This page is for helping visitors and contr…</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=meeting-notes&amp;rev=1332180187&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2012-03-19T19:03:07+02:00</dc:date>
+        <title>meeting-notes</title>
+        <link>http://womoz.org/wiki/doku.php?id=meeting-notes&amp;rev=1332180187&amp;do=diff</link>
+        <description>*  Delphine will check location, timing, schools/communities to involve -- target group-size.
+ Sponsorship?
+
+	*  CDM will share Event “footprint” presentation.
+
+	*  Budget:  It's roughly 15,000 euros spread fairly equally across:
+
+- Labcoats (3000-4,000 euros depending on the number of girls);
+
+- Location overhead (security, rental, lunch/catering, insurance, etc.); and 
+
+- Project Mgt/Travel/Promotion/Materials stuff (e.g. g4g overhead)
+
+But these are only indications for you to keep in mind...…</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=on-board_guide_for_new_members&amp;rev=1322146458&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-11-24T15:54:18+02:00</dc:date>
+        <title>on-board_guide_for_new_members</title>
+        <link>http://womoz.org/wiki/doku.php?id=on-board_guide_for_new_members&amp;rev=1322146458&amp;do=diff</link>
+        <description>Let's see if it works now... :)</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=our_actions&amp;rev=1367456453&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T03:00:53+02:00</dc:date>
+        <title>our_actions</title>
+        <link>http://womoz.org/wiki/doku.php?id=our_actions&amp;rev=1367456453&amp;do=diff</link>
+        <description>Want to help us and promote some of the WoMoz projects? Come get involved! Choose from some of our actions are listed here:
+
+
+	*  Mentoring program ⇒ project contributors can help interested people in their first contribution to WoMoz or Mozilla</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=our_actors&amp;rev=1367456815&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T03:06:55+02:00</dc:date>
+        <title>our_actors</title>
+        <link>http://womoz.org/wiki/doku.php?id=our_actors&amp;rev=1367456815&amp;do=diff</link>
+        <description>[NOTE: page needs to be updated!]
+
+
+
+WoMoz contributors can present themselves here. This is an alphabetical list, ordered by first names. 
+If you would like to help and contribute to the Women &amp; Mozilla project, feel free to add yourself in this section.</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=our_pantheon&amp;rev=1366976587&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-04-26T13:43:07+02:00</dc:date>
+        <title>our_pantheon</title>
+        <link>http://womoz.org/wiki/doku.php?id=our_pantheon&amp;rev=1366976587&amp;do=diff</link>
+        <description>Here are few emblematic and recognized women in FLOSS projects:
+
+(Feel free to edit and add more influential women in computing)
+
+
+
+
+
+
+
+
+Born: 
+
+1957, Berkeley, California
+
+Occupation: 
+
+Chairman, Mozilla Foundation
+
+Education:
+  * AB Asian Studies, University of California, Berkeley</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=redesigning_womoz_website&amp;rev=1304693487&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-06T16:51:27+02:00</dc:date>
+        <title>redesigning_womoz_website</title>
+        <link>http://womoz.org/wiki/doku.php?id=redesigning_womoz_website&amp;rev=1304693487&amp;do=diff</link>
+        <description>Tracking bug
+
+
+We have set up a tracking bug for the WoMoz website. You can find it here on Bugzilla: &lt;https://bugzilla.mozilla.org/show_bug.cgi?id=529868&gt;
+
+Staging Website
+
+
+To follow the changes concerning the WoMoz website, please see here: &lt;http://www.womoz.org/stage/&gt;</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=sidebar&amp;rev=1367456686&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T03:04:46+02:00</dc:date>
+        <title>sidebar</title>
+        <link>http://womoz.org/wiki/doku.php?id=sidebar&amp;rev=1367456686&amp;do=diff</link>
+        <description>Site
+
+=&gt; Womanifesto
+
+=&gt; The project
+
+=&gt; Joining open source projects
+
+=&gt; WoMoz Contributors
+
+=&gt; Calendar
+
+=&gt; Documents
+
+=&gt; TODO list
+
+=&gt; WoMoz Projects
+
+=&gt; Influential Women
+
+=&gt; Contact us
+
+
+Past Projects
+
+=&gt; Website Redesigning
+
+=&gt; WoMoz Survey
+
+=&gt; 2010 Roadmap
+
+=&gt; TODO list</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=survey&amp;rev=1304693038&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-05-06T16:43:58+02:00</dc:date>
+        <title>survey</title>
+        <link>http://womoz.org/wiki/doku.php?id=survey&amp;rev=1304693038&amp;do=diff</link>
+        <description>We need to gather some data, so we will be able to work on further action plans. We need 
+to know what should be changed/started/ended. 
+
+If it turned out that women were leaving, we would need to examine the community, find the 
+causes and fix them. If women were not joining in the first place, we would need to focus 
+on information, promotion, myth-busting and all that grass-root community work.</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=the_project&amp;rev=1315579038&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-09-09T16:37:18+02:00</dc:date>
+        <title>the_project</title>
+        <link>http://womoz.org/wiki/doku.php?id=the_project&amp;rev=1315579038&amp;do=diff</link>
+        <description>If you have worked in IT teams before, then you have probably already realized how very few women are directly implicated in developing and coding processes. Above all, women's presence is even more scarce amongst FLOSS  projects. In fact, a European Commission survey led out a few years ago points out that only 2% of women work in FLOSS communities - against more than 25% in proprietary software.
+
+
+
+In the development field, numbers are even lower: the percentage of women developers in Open Sou…</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=todo_list&amp;rev=1367455917&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2013-05-02T02:51:57+02:00</dc:date>
+        <title>todo_list</title>
+        <link>http://womoz.org/wiki/doku.php?id=todo_list&amp;rev=1367455917&amp;do=diff</link>
+        <description>Please check our Etherpad Meeting Notes for any ongoing tasks, or join and contact us on our mailing list to know how you can get involved!
+
+
+
+
+We now list our TODO items on our Etherpad Meeting Notes
+
+	*  An extension that computes all kind for values for Food&amp;Nutrition, what you ate that day</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=womanifesto&amp;rev=1315578930&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2011-09-09T16:35:30+02:00</dc:date>
+        <title>womanifesto</title>
+        <link>http://womoz.org/wiki/doku.php?id=womanifesto&amp;rev=1315578930&amp;do=diff</link>
+        <description>*  We are a community composed of members from different Open Source projects. We are dedicated to improving women's visibility and involvement in FLOSS  and Mozilla, and to increase the number of women contributors.
+
+	*  Anyone can participate in this project, regardless of sex, age, job, etc.</description>
+    </item>
+    <item rdf:about="http://womoz.org/wiki/doku.php?id=womoz&amp;rev=1266255447&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2010-02-15T18:37:27+02:00</dc:date>
+        <title>womoz</title>
+        <link>http://womoz.org/wiki/doku.php?id=womoz&amp;rev=1266255447&amp;do=diff</link>
+        <description>*  The project: explanation, overview and objectives of the WoMoz project
+
+	*  Joining open source projects: want to help FLOSS projects? Become a contributor
+
+	*  WoMoz Actions: actions to increase women's visibility in FLOSS projects
+
+	*  WoMoz Contributors: meet our contributors
+
+	*  Calendar: interesting conferences and talks, meet-up sessions, meetings &amp; more
+
+	*  Documents: links to documents and studies related to Women &amp; FLOSS
+
+	*  TODO list
+	*  Influential Women: portraying some influen…</description>
+    </item>
+</rdf:RDF>

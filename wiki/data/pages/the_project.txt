@@ -1,0 +1,62 @@
+
+====== The problem ======
+
+If you have worked in IT teams before, then you have probably already realized how very few women are directly implicated in developing and coding processes. Above all, women's presence is even more scarce amongst FLOSS ((Free/Libre/Open Source Software)) projects. In fact, a European Commission survey led out a few years ago points out that only 2% of women work in FLOSS communities - against more than 25% in proprietary software.\\
+\\
+In the development field, numbers are even lower: the percentage of women developers in Open Source falls down to almost 1% ([[http://flosspols.org/|European Commission FLOSSPOL 2002-2005]]).\\
+Why? What are the reasons for this? And what can [[http://www.mozilla.org/|Mozilla]] do about this? \\
+\\
+Contribution in open source projects is not limited to development. It also involves a large variety of fields and subjects: community work, localization (translation), community marketing, organizing events,... and of course coding.\\
+\\
+There is therefore no reason that women should not find their place in open source contribution.
+
+====== And Mozilla in all that ======
+
+Many women have already gathered and created official groups in various open source projects: [[http://www.ubuntu-women.org/|Ubuntu Women]], [[http://www.phpwomen.org/|PHP Women]], [[http://live.gnome.org/GnomeWomen|GNOME Women]], [[http://groups.drupal.org/drupalchix|DrupalChix]], and [[http://mozbox.org/mozilla_women/wiki/doku.php?id=documents#other_women_s_groups|many others]].\\
+\\
+Up until today, there existed no "Mozilla group" dedicated to improving women's visibility.\\
+Instead of creating yet another women's group and dividing things up even more, we have decided to create a meeting point where women / men / existing women's group / anyone interested by the project can join and suggest ideas. \\
+And here you are :)
+
+====== Why a "women's project"? ======
+
+//"I am what I am because of what we are all"// ([[http://en.wikipedia.org/wiki/Ubuntu_(philosophy)|Ubuntu]])\\
+//"Internet by the people, for the people"// ([[http://en.wikipedia.org/wiki/Mitchell_Baker|Mitchell Baker]])\\
+\\
+FLOSS projects are very often created and developed by their contributors and by a passion-driven community of volunteers. This is why it seems more interesting to gather a large and diversified community around a project.\\
+\\
+The aim of this project and wiki is to promote women's involvement in the FLOSS world in general - and in Mozilla's teams more particularly - as well as increase awareness around this issue.
+Anyone can participate - women, men, members of existing women's groups,... - united in this common goal.
+
+====== How to participate ======
+
+There are many ways you can participate and become an open source contributor. 
+Here are some examples and links that will guide you into the wonderful world of communities and contribution:
+
+===== Contribute to WoMoz =====
+
+  * Help us promote women's visibility and involvement in FLOSS projects: submit ideas, suggestions, and feedback by creating your own account on this wiki, in order to update our [[TODO list]]. //(Not familiar with wiki syntax yet? Head over to [[http://www.dokuwiki.org/syntax|syntax]] for quick & simple help)//
+
+  * Or help expand and realize an undergoing project in [[Our actions]] page.
+
+  * You can also join us on our IRC channel, to discuss your ideas or just to meet us: [[irc://irc.mozilla.org/womoz|#womoz IRC Channel]]
+
+  * More info on why and how to contribute to WoMoz on our [[Joining open source projects]] and [[Our actions]] pages
+
+  * Want to contribute more regularly as a WoMoz contributor? Choose a task and add your name on our [[Tasks]] Page.
+
+  * Stay up to date with WoMoz news and info: come and visit our [[contact_us]] page, in the [[http://womoz.org/wiki/doku.php?id=contact_us#stay_up_to_date|Stay Up to Date]] section
+
+By doing this, we hope to quickly reach concrete solutions and to realize them as much as possible.
+\\
+
+===== Contribute to Mozilla =====
+
+Mozilla applications and software - just as many other open source projects - are made by thousands of international volunteers and communities. These people have gathered together in order to help improve Mozilla, and to ship products that reflect who we are and what we need.\\
+\\
+In order for Mozilla products to represent society's need in the fullest way possible, we think it is important that a large variety of individuals participate in the creation of these products. If we want them to truly be the reflection of society as a whole, we need more women in Mozilla Communities!\\
+\\
+For more information on Mozilla's mission and beliefs, please read the [[http://www.mozilla.org/about/manifesto.en.html|The Mozilla Manifesto]].\\
+\\
+There are many ways you can become a Mozilla contributor: we are always looking for help!\\
+Ranging from localization, to marketing, to development (& much more), come discover a world of possibilities on the [[http://www.mozilla.org/contribute/|How to contribute to Mozilla]] Website. The [[http://www.mozilla.org/|mozilla.org Website]] is also a must-read.\\

@@ -1,0 +1,25 @@
+.page {
+    padding-left: 10px;
+}
+
+.img_big {
+    float:right;
+    padding-right: 10px;
+}
+
+.img_caption, dt{
+    background-color:#C0DEE9;
+    padding: 8px 0;
+}
+
+.img_back, dd {
+    padding: 8px 0;
+}
+
+p, dl {
+    margin: 0;
+}
+
+img {
+    border: solid 2px #000000;
+}

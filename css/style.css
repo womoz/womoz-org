@@ -1,0 +1,387 @@
+body {
+  font-family: MetaBold,Trebuchet MS,sans-serif;
+  margin: 0;
+  min-width: 900px;
+}
+
+#wrap {
+  margin:auto;
+}
+
+#white {
+  background-color: #FFFFFF;
+  margin: 0;
+}
+
+div#header {
+  background:none repeat scroll 0 0 #F2EFC3;
+  border-bottom:10px solid #CC5500;
+  height:125px;
+  left:0;
+  top:0;
+}
+
+div#logo {
+  float:left;
+  left:6%;
+  margin:1%;
+  position:relative;
+}
+#logo img {
+  border: 0 none; 
+}
+
+#header h1 {
+  left:-6%;
+  margin:0;
+  position:relative;
+  top:30%;
+}
+
+#header h1 a {
+  color:#DA6231;
+  display:block;
+  float:left;
+  font-size:50px;
+  font-weight:bold;
+  letter-spacing:-2px;
+  margin:0 100px 0 130px;
+  padding:0 40px;
+  text-decoration:none;
+  text-shadow:0 1px 5px rgba(0, 0, 0, 0.4), 0 0 10px rgba(255, 255, 255, 
+0.4);
+}
+
+#content {
+  background: #FFFFFF;
+  margin: auto;
+  width: 1000px;
+}
+
+#main {
+width: 650px;
+float: left;
+}
+
+.womanifesto {
+  margin-top: 45px;
+}
+
+.intro {
+padding: 3% 1%;
+}
+
+.slogan {
+  color: #A5151E;
+  padding: 5% 2% 0;
+}
+
+.slogan h1 {
+  font-size: 26pt;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.slogan h2 {
+  margin: 1% 0;
+  font-size: 14pt;
+}
+#links {
+  padding:0 1%;
+}
+div.linkbox {
+  -moz-border-radius: 10px 10px 5px 5px;
+  background-color: #F2EFC3;
+  float: left;
+  margin: 1%;
+  padding: 0 1%;
+  position: relative;
+  width: 28%;
+  min-height: 300px;
+}
+div.linkbox:hover {
+  background-color: #EEE8AA;
+}
+hr.clear {
+  clear:both;
+  visibility:hidden;
+  border:none;
+  height:0;
+  line-height:0;
+}
+a {
+  text-decoration:none;
+}
+
+:focus {
+  -moz-outline-style: none;
+}
+
+p.desc {
+  padding:0 5%;
+}
+
+p.desc a {
+  display:block;
+}
+
+p.link_wiki a {
+  -moz-background-clip: border;
+  -moz-background-inline-policy: continuous;
+  -moz-background-origin: padding;
+  background: transparent url(../images/wiki.png) no-repeat scroll 
+center center;
+  display: block;
+  line-height: 180px;
+  text-indent: -1000em;
+  width: 100%;
+}
+
+p.link_blog a {
+  -moz-background-clip: border;
+  -moz-background-inline-policy: continuous;
+  -moz-background-origin: padding;
+  background: transparent url(../images/blog.png) no-repeat scroll 
+center center;
+  display: block;
+  line-height: 180px;
+  text-indent: -1000em;
+  width: 100%;
+}
+
+p.link_mailing a {
+  -moz-background-clip: border;
+  -moz-background-inline-policy: continuous;
+  -moz-background-origin: padding;
+  background: transparent url(../images/mail_man.jpg) no-repeat scroll 
+center center;
+  display: block;
+  line-height: 180px;
+  text-indent: -1000em;
+  width: 100%;
+}
+
+#sidebar {
+  width: 334px;
+  padding: 3% 0;
+  float: right;
+}
+
+#donate-box {
+background:url("../images/donate-box.png") no-repeat scroll 113% 101% 
+transparent;
+margin-bottom: 1%;
+padding-bottom: 5%;
+}
+
+#donate-box p {
+background:url("../images/donate-box.png") no-repeat scroll 0 0 
+transparent;
+color:#FFFFFF;
+font-family:georgia,serif;
+font-size:20px;
+font-style:italic;
+font-weight:bold;
+line-height:1.2;
+height: 90px;
+margin: 0;
+padding:55px 123px 10px 20px;
+}
+
+.item  p {
+  font-size: 10pt;
+  margin: 1% 0;
+}
+
+.item  h4 {
+  margin: 5% 0;
+}
+
+.item a {
+  color: #0047AB;
+}
+
+#footer {
+  background-color: #f2efc3;
+  border-top: 10px solid #CC5500;
+  margin-top: 5%;
+  padding: 3%;
+}
+
+.copyright {
+ float:left;
+  padding-right:13%;
+  width: 15%;
+}
+
+.fotterul {
+float: left;
+padding-right:3%;
+}
+
+.fotterul  a {
+color: #A5151E;
+}
+
+.copyright a {
+color: #A5151E;
+}
+
+.fotterul h5 {
+    padding-left: 16%;
+}
+a {
+  outline: none !important;
+}
+.s1 {
+    -moz-box-shadow:6px 6px 16px #148CB5;
+    -webkit-box-shadow:6px 6px 16px #148CB5;
+    box-shadow:6px 6px 16px #148CB5;
+    -moz-border-radius: 9px;
+    -webkit-border-radius: 9px;
+    border-radius: 9px;
+    width: 602px;
+    padding: 10px 5px;
+    border: 3px solid #CCCCCC;
+}
+.slider-wrapper {
+    border: 1px solid #CCCCCC;
+    position:relative;
+    overflow:hidden;
+    width:600px;
+}
+.slideshow h2 {
+    margin-top:0;
+}
+.slider-holder {
+    width:600px;
+    display:block;
+    height:255px;    
+    overflow:hidden;
+    margin:0;
+}
+.slider-holder li {
+    height: 255px;
+    margin:0;
+    display:block;
+    padding:10px;
+    float:left;
+    list-style:none;
+ }
+.slider-holder ul ul {
+    height:auto;
+    padding-left:18px;
+}
+.slider-holder li li {
+    padding:0;
+    margin:0;
+    display:list-item;
+    width:auto;
+    height:auto;
+    float:none;
+    list-style:disc;
+}
+.s-active {
+    padding:0 !important;
+}
+#no1 {
+    background: url(../images/blogs.jpg) no-repeat scroll 100% 0 
+transparent;
+    width:580px;
+}
+#no2 {
+    background: url(../images/video.jpg) no-repeat scroll 100% 0 
+transparent;
+    width:580px;
+}
+#no2 span {
+    color:Chocolate;
+    display:block;
+    font-family:Georgia;
+    font-size:41px;
+    font-weight:bold;
+    margin:36px 0 0 36px;
+    text-shadow:-3px 3px 9px #000000;
+}
+#no3 {
+    background: url(../images/wiki.jpg) no-repeat scroll 100% 0 
+transparent;
+    width:580px;
+}
+#no3 span {
+    color:#000000;
+    display:block;
+    font-family:monospace;
+    font-size:35px;
+    font-weight:bold;
+    left:42px;
+    position:absolute;
+    text-align:center;
+    top:47px;
+}
+#no4 {
+    background: url(../images/blogs.jpg) no-repeat scroll 100% 0 
+transparent;
+    width:580px;
+}
+.slider-nav {
+    height:90px;
+    margin:0;
+    padding: 0 10px;
+    font-weight: bold;
+}
+.slider-nav li {
+    float:left;
+    list-style:none outside none;
+    width:25%;
+    padding-top:10px;
+}
+.slider-nav .active {
+font-weight:bold;
+}
+.slider-nav a {
+    font-size: 14px;
+    display:block;
+    padding-top:45%;
+    text-align:center;
+    color: #4B4740;
+}
+.slider-nav .active a, .slider-nav a:hover {
+    color: #A5151E;
+}
+#item1 a {
+    background:url("../images/wordpress.jpg") no-repeat scroll center 
+top transparent;
+}
+#item2 a {
+    background:url("../images/video.png") no-repeat scroll center top 
+transparent;
+}
+#item3 a {
+    background:url("../images/wiki_icon.png") no-repeat scroll center 
+top transparent;
+}
+#item4 a {
+    background:url("../images/mailing-list.jpg") no-repeat scroll center 
+top transparent;
+}
+#slide1-small li {
+color:#FFFFFF;
+font-size:26px;
+font-weight:bold;
+list-style:none outside none;
+margin-left:-25px;
+text-shadow:-3px 3px 6px #000000;
+}
+.slide1-big {
+color:#A5151E;
+display:block;
+font-family:sans-serif, arial;
+font-size:29px;
+font-weight:bold;
+list-style:none outside none;
+margin:45px 0 0 30px;
+text-shadow:-3px 6px 9px #FFFFFF;
+}
+

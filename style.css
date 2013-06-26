@@ -1,0 +1,113 @@
+body {
+    background: transparent url(img/background-feature.jpg) repeat-x scroll center top;
+    font-family:georgia, serif;
+}
+
+div#entete {
+    height:150px;
+    max-width:950px;
+    background: transparent url(img/chicks.png) no-repeat scroll left top;
+}
+
+h1 {
+    height: 80px;
+    font-size: 45px;
+    padding-left: 280px;
+    padding-top: 10px;
+    color: #FFFFFF;
+}
+
+div.boite {
+    background-color:white;
+    width:200px;
+    float:left;
+    margin: 10px;
+    padding:0 5px;
+    min-height:18em;
+    -moz-border-radius : 10px 10px 5px 5px;
+    position:relative;
+    opacity:0.7;
+}
+
+div.boite:hover {
+    opacity:1;
+}
+
+hr.clear {
+    clear:both;
+    visibility:hidden;
+    border:none;
+    height:0;
+    line-height:0;
+}
+
+p {
+    color:black;
+}
+
+a {
+    text-decoration:none;
+}
+
+:focus {
+    -moz-outline-style: none;
+}
+
+p.desc {
+    padding:0 10px;
+}
+
+p.desc a {
+    color:black;
+    display:block;
+}
+
+p.link_wiki a {
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    background:transparent url(img/wiki.png) no-repeat scroll center center;
+    display:block;
+    line-height:180px;
+    text-indent:-1000em;
+    width:100%;
+}
+
+p.link_blog a {
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    background:transparent url(img/blog.png) no-repeat scroll center center;
+    display:block;
+    line-height:180px;
+    text-indent:-1000em;
+    width:100%;
+}
+
+p.link_planet a {    
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    background:transparent url(img/planet.png) no-repeat scroll center center;
+    display:block;
+    line-height:180px;
+    text-indent:-1000em;
+    width:100%;
+}
+
+p.link_mailing a {
+    -moz-background-clip:border;
+    -moz-background-inline-policy:continuous;
+    -moz-background-origin:padding;
+    background:transparent url(img/mail_man.jpg) no-repeat scroll center center;
+    display:block;
+    line-height:180px;
+    text-indent:-1000em;
+    width:100%;
+}
+
+#contenant {
+    width:950px;
+    margin:auto;
+}
+

@@ -1,0 +1,450 @@
+/*
+ * Design Mozilla Community Template
+ *
+ * @link   http://www.mozilla.org
+ * @author Julia Buchner <julia@buchner.fr>
+ */
+
+/* -------------- General Elements --------------- */
+
+* {
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+body {
+	font: 80% "Meta", Verdana, Lucida, Helvetica, Arial, sans-serif;
+	color: #282623;
+	background-image: url(images/background.png);
+	background-repeat: repeat-x;
+}
+
+.mozilla_tback {
+	background-image: url(images/background_header.png);
+	background-repeat: repeat-x;
+}
+
+.mozilla_bback {
+	background-image: url(images/footer-portal-border.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+
+.dokuwiki, .footerinc {
+	width: 1024px;
+	overflow: hidden;
+}
+
+/* -------------- Mozilla Header --------------- */
+
+.mozilla_header {
+	padding: 6px 10px 30px 20px;
+}
+
+.mozilla_header a {
+	display: block;
+	height: 20px;
+	width: 144px;
+	float: left;
+	background-image: url(images/mcs_header.png);
+	background-repeat: no-repeat;
+}
+
+.mozilla_header span {
+	display: none;
+}
+
+.mozilla_header form {
+	float: right;
+}
+
+.mozilla_header input#qsearch__in {
+	background-image: none;
+	border: 0;
+}
+
+.mozilla_header input.button {
+	background-image: none;
+	border: 0;
+	background-color: #163754;
+	margin-left: 5px;
+	-moz-border-radius: 5px;
+	cursor: pointer;
+	font-size: 10px;
+	font-family: Verdana;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+
+.mozilla_header input.button:hover {
+	background-color: #6e685e;
+}
+
+/* -------------- Title --------------- */
+
+.dokuwiki .logo {
+	background-image: url(images/chicks.png);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	height: 120px;
+}
+
+.dokuwiki .logo a {
+	text-decoration: none;
+	color: #163754;
+	font-family: Meta, sans-serif;
+	font-weight: bold;
+	font-size: 55px;
+	line-height: 100px;
+	padding-left: 140px;
+}
+
+/* -------------- Head Toolbar --------------- */
+
+.stylehead #bar__top {
+	overflow: hidden;
+}
+
+#bar__top input.button {
+	width: 168px;
+	height: 30px;
+	float: left;
+	background-color: #163754;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 14px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+#bar__top input.button:hover {
+	background-color: #8a9ca8;
+}
+
+#bar__topright {
+	float: right;
+}
+
+.stylehead input.button {
+	background-image: none;
+	border: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+div.breadcrumbs {
+	padding: 10px;
+	font-size: 80%;
+}
+
+/* -------------- Sidebar & page --------------- */
+
+#sidebar {
+	float: left;
+	width: 180px;
+	padding: 10px;
+	margin-right: 30px;
+	border: 1px solid #8a9ca8;
+	-moz-border-radius: 5px;
+}
+
+.page {
+	float: right;
+	width: 790px;
+}
+
+/* -------------- Document --------------- */
+
+div.dokuwiki div.page {
+	text-align: justify;
+}
+
+div.dokuwiki table {
+  font-size: 100%;
+}
+
+div.dokuwiki img {
+	border: 0px;
+	padding: 0 5px;
+}
+
+div.dokuwiki p,
+div.dokuwiki blockquote,
+div.dokuwiki table,
+div.dokuwiki pre {
+	margin: 0 0 1.0em 0;
+}
+
+div.dokuwiki hr {
+	border: 0px;
+	border-top: 1px solid #163754;
+	text-align: center;
+	height: 0px;
+}
+
+div.dokuwiki div.nothing {
+	text-align: center;
+	margin: 2em;
+}
+
+div.page h1 a, div.page h2 a, div.page h3 a, div.page h4 a, div.page h5 a, div.page a.nolink {
+	color: #6e685e !important;
+	text-decoration: none !important;
+	background-color: inherit;
+	border-bottom: 1px solid #CCCCCC;
+	clear: left;
+	color: #333333;
+	font-size: 100%;
+	font-weight: normal;	
+	margin: 0 0 1em;
+	padding: 0.5em 0 0;
+	display: block;
+}
+
+div.dokuwiki h2, div.dokuwiki div.level2 {
+	margin-left: 10px;
+}
+
+div.dokuwiki h3, div.dokuwiki div.level3 {
+	margin-left: 20px;
+}
+
+div.dokuwiki h4, div.dokuwiki div.level4 {
+	margin-left: 30px;
+}
+
+div.dokuwiki h5, div.dokuwiki div.level5 {
+	margin-left: 40px;
+}
+
+div.dokuwiki ul {
+	color: #638C9C;
+	line-height: 1.5em;
+	list-style-image: none;
+	list-style-type: square;
+	margin: 0 0 1em 3.5em;
+}
+
+div.dokuwiki .li {
+	color: #282623;
+	font-weight: normal;
+}
+
+div.dokuwiki ol {
+	color: #638C9C;
+	font-weight: bold;
+	line-height: 1.5em;
+	list-style-image: none;
+	margin: 0 0 1em 3.5em;
+}
+
+div.dokuwiki div.left_sidebar div.secedit input.button, div.dokuwiki div.right_sidebar div.secedit input.button {
+	float: none;
+	margin: 0.1em;
+}
+
+div.dokuwiki div.secedit input.button {
+	background-color:#FFFFFF;
+	border:1px solid #CCCCCC;
+	color:#333333;
+	cursor:pointer;
+	display:inline;
+	float:right;
+	font-size:10px;
+	margin:0;
+	padding:0;
+	text-decoration:none;
+	vertical-align:middle;
+}
+
+div.page a {
+	color: #163754;
+}
+
+div.dokuwiki fieldset {
+  width: 300px;
+  text-align: center;
+  border: 1px solid #163754;
+  padding: 0.5em;
+  margin: auto;
+}
+
+div.dokuwiki textarea.edit {
+  font-family: monospace;
+  font-size: 14px;
+  color: __text__;
+  background-color: #8a9ca8;
+  border: 1px solid #163754;
+  padding: 0.3em 0 0 0.3em;
+  width: 99%;
+}
+
+html>body div.dokuwiki textarea.edit {
+  background:  __background__ url(images/inputshadow.png) repeat-x top;
+}
+
+/* -------------- Table of content --------------- */
+
+div.dokuwiki div.toc {
+  margin: 1.2em 0 0 2em;
+  float: right;
+  width: 200px;
+  font-size: 80%;
+  clear: both;
+}
+
+div.dokuwiki div.tocheader {
+  border: 1px solid #163754;
+  background-color: #8a9ca8;
+  text-align: left;
+  font-weight: bold;
+  padding: 3px;
+  margin-bottom: 2px;
+}
+
+div.dokuwiki span.toc_open,
+div.dokuwiki span.toc_close {
+    border: 0.4em solid __background_alt__;
+    float: right;
+    display: block;
+    margin: 0.4em 3px 0 0;
+}
+
+div.dokuwiki span.toc_open span,
+div.dokuwiki span.toc_close span {
+    display: none;
+}
+
+div.dokuwiki span.toc_open {
+    margin-top: 0.4em;
+    border-top: 0.4em solid __text__;
+}
+
+div.dokuwiki span.toc_close {
+    margin-top: 0;
+    border-bottom: 0.4em solid __text__;
+}
+
+div.dokuwiki #toc__inside {
+  border: 1px solid __border__;
+  background-color: __background__;
+  text-align: left;
+  padding: 0.5em 0 0.7em 0;
+}
+
+div.dokuwiki ul.toc {
+  list-style-type: none;
+  list-style-image: none;
+  line-height: 1.2em;
+  padding-left: 1em;
+  margin: 0;
+}
+
+div.dokuwiki ul.toc li {
+  background: transparent url(images/tocdot2.gif) 0 0.6em no-repeat;
+  padding-left: 0.4em;
+}
+
+div.dokuwiki ul.toc li.clear {
+  background-image: none;
+  padding-left: 0.4em;
+}
+
+div.dokuwiki a.toc:link,
+div.dokuwiki a.toc:visited {
+  color: __extern__;
+}
+
+div.dokuwiki a.toc:hover,
+div.dokuwiki a.toc:active {
+  color: __text__;
+}
+
+div.dokuwiki #toc__inside {
+  background-color:#FFFFFF;
+  border:1px solid #8CACBB;
+  padding:0.5em 0.7em 0.7em 0;
+  text-align:left;
+}
+
+/* -------------- Tableau  --------------- */
+
+div.dokuwiki table.inline{
+  background-color: #ffffff;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+div.dokuwiki table.inline td,
+div.dokuwiki table.inline tr,
+div.dokuwiki table.inline th {
+  border:1px solid #8CACBB;
+  padding:3px;
+}
+
+div.dokuwiki table.inline th {
+  background-color:#DEE7EC;
+  border:1px solid #8CACBB;
+  padding:3px;}
+
+/**** Calendar Table ****/
+
+div.dokuwiki table.calendar th {
+  width: 158px;
+  height: 50px;
+  text-align: center;
+}
+
+/* -------------- Footer --------------- */
+
+.meta {
+	text-align: right;
+	padding-bottom: 10px;
+}
+
+/* -------------- Bottom Toolbar --------------- */
+
+.stylefoot #bar__bottom {
+	overflow: hidden;
+}
+
+.stylefoot input.button {
+	width: 159px;
+	height: 30px;
+	float: left;
+	background-color: #163754;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 14px;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.stylefoot input.button:hover {
+	background-color: #8a9ca8;
+}
+
+.stylefoot input.button {
+	background-image: none;
+	border: 0;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+/* -------------- Footer --------------- */
+
+.footerinc {
+	margin-top: 150px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.footerinc a img {
+    opacity: 0.5;
+    border: 0;
+}
+
+.footerinc a:hover img {
+    opacity: 1;
+}
