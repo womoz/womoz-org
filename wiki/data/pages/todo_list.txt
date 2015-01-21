@@ -109,6 +109,7 @@ Presentation of the WoMoz project to the university students on March 10th, 2010
   * [[http://www.chicaslinux.org/|ChicasLinux]]
   * [[http://groups.fsf.org/wiki/Womenscaucus|FSF Women's Group]]
   * [[http://www.geekfeminism.org|geekfeminism.org]]
+  * [[http://meta.wikimedia.org/wiki/WikiWomen's_Collaborative|WikiWomen's Collaborative]]
 
 ====== WoMoz Community Tasks ======
 
@@ -125,10 +126,10 @@ Presentation of the WoMoz project to the university students on March 10th, 2010
 ^ Videos                ^ Wiki         ^ Blog         ^ Bugzilla   ^ Survey  ^ FB     ^ 
 |Janet //(tech)//       |Falka         |Delphine      |Lsblakk     |Falka    |Anamaria|   
 |Lsblakk //(tech&make)//|Pavel         |Nastassia     |wormsxulla  |marianyka|Delphine|   
-|Theo //(tech)//        |Béatrice      |Béatrice      |Delphine    |Baby     |        |
-|Izel                   |Tiffney       |              |falka       |Pavel    |        |   
+|Theo //(tech)//        |Béatrice      |Béatrice      |Delphine    |Baby     | Netha       |
+|Izel                   |Tiffney       | Netha           |falka       |Pavel    |        |   
 |Delphine               |Nastassia     |              |Pavel       |Delphine |        |   
-|Pavel //(tech)//       |              |              |            |Milos    |        |
+|Pavel //(tech)//       | Netha             |            |            |Milos    |       |
 |Béatrice //(make)//    |              |              |            |Nuno     |        |
 |Nastassia //(make)//   |              |              |            |         |        |
 

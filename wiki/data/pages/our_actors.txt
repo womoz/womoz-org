@@ -55,11 +55,6 @@ Ah yes, and I'm a woman.
 
 
 
-
-
-
-
-
 ===== Gloria Patricia Meneses =====
 
 **Occupation:**\\
@@ -73,10 +68,25 @@ I live in Bogotá (Colombia) and work at Government entities as Java programmer 
 [[http://monyu.wordpress.com/|My blog]]\\
 Twitter:[[http://twitter.com/gpmeneses|@gpmeneses]]
 
-====== J ======
-
-
 ====== K ======
+===== Kumaresan.C.S =====
+
+**Occupation:**\\
+- Studying B.Tech Mechanical Engineering at GISAT Engineering
+College(Final year) , Kottayam. I'm Firefox student Ambassador at
+GISAT Engineering College , Kottayam and I'm also a Mozilla Volunteer,
+active in Mozilla contributor (SUMO) and also Webmaker Mentor. I am
+ready to spread the Mozilla to Tech-world..\\
+- Mozillian Account [[https://mozillians.org/en-US/u/Kumaresan/]]\\
+- Mozilla Support [[https://support.mozilla.org/en-US/user/922617|SUMO]]\\
+- \\ 
+**Location:**\\
+Kottayam,Kerala,India\\
+
+**Links:**\\
+[[http://blog.mozillakerala.org/author/kumaresan | Blog]]\\
+[[http://facebook.com/cskumaresan| FACEBOOK ]]
+
 ====== L ======
 
 ===== Lourdes Castillo =====
@@ -125,7 +135,38 @@ I am a 22 year old fresh graduate from Nairobi Kenya who is very passionate abou
 [[http://marianyka.blogspot.com/]]\\
 [[http://identi.ca/marianyka]]\\
 
+====== N ======
+===== Netha Hussain =====
+
+**Occupation:**\\
+- Undergraduate student of Medicine and Surgery at University of Calicut\\
+- Editor at [[http://en.wikipedia.org/wiki/User:Netha_Hussain|Wikipedia]]\\
+- Blogger at [[http://www.huffingtonpost.co.uk/netha-hussain/|Huffington Post U.K]]\\
+- \\ 
+**Location:**\\
+Kozhikode, India\\
+
+**Links:**\\
+[[http://nethahussain.blogspot.in/]]\\
+[[http://facebook.com/nethahussain/]]
+
 ====== T ======
+
+
+Occupation:
+    Studying Computer Engineering at North South University from Bangladesh
+    Freelance blogger, webadmin from Mozilla Bangladesh, Firefox student ambassador from NSU.
+
+About me:
+I'm a member and volunteer in the mozilla Bangladesh community, a computer science woman, tech freak, Free Software and Open Source.
+
+Location: Dhaka, Bangladesh
+Links:
+   skype: pink.devil.tanha
+    Twitter: @ahnat16
+    Blog: http://tanhaislampinkdevil.wordpress.com/
+
+
 ===== Theocrite =====
 **Occupation:**\\
 - System administrator \\

@@ -4,6 +4,7 @@ Here is the Documents page, where we keep track of all references concerning the
 //(Feel free to edit and add more)//
 
 ====== Blog posts ======
+[[http://blog.mozillakerala.org/2014/02/empower-womoz/ |Empower WoMoz!]] (February 2014)\\
 [[http://cme.dreamwidth.org/107825.html|In which everything takes rather longer than I thought]] (July 2010)\\
 [[http://www.selikoff.net/2009/12/18/female-programmers-and-programmers-to-be/|Female programmers and programmers to be]] (December 2009)\\
 [[http://infotrope.net/blog/2009/07/25/standing-out-in-the-crowd-my-oscon-keynote/|Standing out in the crowd]] (July 2009)\\
